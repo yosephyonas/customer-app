@@ -1,0 +1,240 @@
+{
+  "home": "家",
+  "login": "登录",
+  "logout": "登出",
+  "theName": "名字",
+  "name": "姓名",
+  "fullName": "全名",
+  "enterFullName": "输入您的全名",
+  "phone": "电话",
+  "thePhone": "电话",
+  "enterPhoneCorrectly": "正确输入您的手机",
+  "enterFullPhoneNumber": "输入您的完整手机",
+  "fantasyName": "幻想名称",
+  "enterCompanyName": "输入公司名称",
+  "email": "电子邮件",
+  "enterEmail": "输入你的电子邮箱",
+  "enterValidEmail": "输入有效的电子邮件",
+  "emailNotFound": "电子邮件没有找到",
+  "waitSendLinkAgain": "等待再次发送链接",
+  "password": "密码",
+  "thePassword": "一个senha",
+  "enterPassword": "输入您的密码",
+  "enterPasswordConfirmation": "输入密码确认",
+  "confirmPassword": "确认你的密码",
+  "passwordsNotMatch": "密码不匹配",
+  "incorrectEmailPassword": "错误的邮箱帐号或密码",
+  "forgetPassword": "忘记密码？",
+  "resetPassword": "重设密码",
+  "loginRequired": "要求登录",
+  "errorLogin": "登录时出错",
+  "errorRegister": "注册时出错",
+  "inputMinimumSize": "{fieldName} 的长度必须至少为 {requiredSize} 个字符",
+  "@inputMinimumSize": {
+    "description": "最小字段大小",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "密码"
+      },
+      "requiredSize": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "wantToLeaveRegistration": "你想离开注册吗？",
+  "exitingRegistrationDataLost": "退出注册后，所有已输入的数据都将丢失。",
+  "cancel": "取消",
+  "declareHaveReadAgreed": "注册即表示您已阅读并同意我们的",
+  "termsUsePrivacyPolicy": "使用条款和隐私政策",
+  "leave": "离开",
+  "save": "节省",
+  "dontHaveAccount": "没有帐户？",
+  "createAccount": "注册",
+  "registration": "登记",
+  "register": "登记",
+  "haveAnAccount": "有一个账户？",
+  "signIn": "登入",
+  "signUp": "注册",
+  "skipForNow": "暂时跳过",
+  "skip": "跳过",
+  "verifyConnection": "验证您的互联网连接",
+  "rememberMe": "记得我",
+  "menu": "菜单",
+  "wantSignOut": "想要退出？",
+  "yes": "是的",
+  "no": "不",
+  "theme": "主题",
+  "darkTheme": "深色主题",
+  "lightTheme": "轻主题",
+  "sendLink": "提交链接",
+  "linkSubmitted": "链接已提交",
+  "errorSendingLink": "发送链接出错",
+  "linkCopied": "链接已复制",
+  "termsUse": "使用条款",
+  "privacyPolicy": "隐私政策",
+  "and": "和",
+  "kilometer": "公里",
+  "mile": "英里",
+  "km": "公里",
+  "mi": "米",
+  "signinWith": "使用 {socialNetwork} 登录",
+  "@signinWith": {
+    "placeholders": {
+      "socialNetwork": {
+        "type": "String"
+      }
+    }
+  },
+  "fromPickupLocation": "距接载地点 {distance}",
+  "@fromPickupLocation": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "phoneNumberRequired": "需要电话号码",
+  "pending": "待办的",
+  "waiting": "等待",
+  "accepted": "公认",
+  "rejected": "被拒绝",
+  "collected": "集",
+  "delivered": "发表",
+  "cancelled": "取消",
+  "completed": "完全的",
+  "noResultsFound": "未找到结果",
+  "boardingPlace": "登机地点",
+  "destination": "目的地",
+  "addRideLocation": "添加乘车地点",
+  "selectAnAddress": "选择地址",
+  "total": "全部的",
+  "distance": "距离",
+  "enterNumberComplement": "输入数字和补码",
+  "ok": "好的",
+  "changeDriver": "更换驱动程序",
+  "sendRide": "派车",
+  "searchingRides": "搜索游乐设施",
+  "youDontHaveAnyRides": "您没有任何游乐设施",
+  "support": "支持",
+  "accountSupport": "账户支持",
+  "settings": "设置",
+  "recentRides": "最近的游乐设施",
+  "boardingAddress": "取货地址",
+  "rideAddress": "乘车地址",
+  "rideAddresses": "乘车地址",
+  "viewCompleteRide": "查看完整的旅程",
+  "requestedBy": "被要求",
+  "paymentMethod": "付款方式",
+  "paymentStatus": "支付状态",
+  "loadMore": "装载更多",
+  "failedUpdate": "更新失败",
+  "dataUpdatedSuccessfully": "数据更新成功",
+  "camera": "相机",
+  "gallery": "画廊",
+  "updatePhoto": "更新照片",
+  "cameraAccess": "相机访问",
+  "galleryAccess": "进入画廊",
+  "allowAppAccessThe": "允许应用访问 {accessType} 以发送照片",
+  "@allowAppAccessThe": {
+    "description": "允许访问",
+    "placeholders": {
+      "accessType": {
+        "type": "String"
+      }
+    }
+  },
+  "thereWasErrorSendingImage": "发送图片时出错。",
+  "goToSettings": "前往设置",
+  "profile": "轮廓",
+  "newRide": "新骑",
+  "observationForDriver": "驾驶员观察",
+  "selectPaymentMethod": "选择付款方式",
+  "ifNeededInputObservationDriver": "如果需要，输入驾驶员的观察结果",
+  "driverDetailsDisplayedRidePanel": "驾驶员详细信息显示在骑行面板上。",
+  "sorryNoDriverNearby": "抱歉，目前该地址附近没有司机为您服务",
+  "note": "笔记",
+  "returnCollectionLocation": "返回收集地点",
+  "estimatedDistance": "估计距离",
+  "collect": "搜集",
+  "boarding": "登机",
+  "returnCollectLocation": "返回收集地点",
+  "rideStatus": "乘车状态",
+  "totalAmount": "总金额",
+  "tryAgain": "再试一次",
+  "errorGettingRide": "搭车时出错",
+  "rideNotFound": "找不到骑行",
+  "ride": "骑",
+  "details": "细节",
+  "addresses": "地址",
+  "driver": "司机",
+  "sendingRide": "派车",
+  "rideCreated": "已创建骑行",
+  "returnn": "返回",
+  "awaitingSomething": "等待某事",
+  "@awaitingSomething": {
+    "placeholders": {
+      "something": {
+        "type": "String"
+      }
+    }
+  },
+  "andMoreLocations": "和更多 {quantity} 个位置",
+  "@andMoreLocations": {
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "returnPickupLocationRequired": "需要返回取货地点",
+  "seeWhatWeCanDoForYouToday": "看看我们能为您骑什么",
+  "letsStartWithLogin": "让我们从登录开始",
+  "payWith": "使用 {paymentMethod} 付款",
+  "@payWith": {
+    "placeholders": {
+      "paymentMethod": {
+        "type": "String"
+      }
+    }
+  },
+  "online": "在线的",
+  "tracking": "追踪",
+  "paymentCompleted": "付款完成",
+  "paid": "有薪酬的",
+  "error": "错误",
+  "errorOnPayment": "付款错误",
+  "deletingYourAccont": "删除您的帐户",
+  "deleteAccount": "删除帐户",
+  "deleteMyAccount": "删除我的账户",
+  "clickOnAdressOpenInMap": "点击地址在地图上打开",
+  "reallyWantDeleteAccontDataWillBeLost": "您真的要删除您的帐户吗？您的数据将永久丢失。",
+  "inProgress": "进行中",
+  "whereTo": "去哪儿？",
+  "nearbyPlaces": "附近地点",
+  "findingPlace": "找地方...",
+  "unnamedLocation": "未命名的位置",
+  "tapSelectThisLocation": "点按以选择此位置",
+  "vehicleType": "车辆类型",
+  "searchingDriver": "搜索驱动程序",
+  "lookingForDriver": "我们正在寻找司机",
+  "cancelRide": "取消行程",
+  "reallyWantCancelRide": "您真的要取消行程吗？",
+  "driverHeadingYourLocation": "{driverName} 正在前往您所在的位置",
+  "@driverHeadingYourLocation": {
+    "placeholders": {
+      "driverName": {
+        "type": "String"
+      }
+    }
+  },
+  "brand": "牌",
+  "model": "模型",
+  "plate": "盘子",
+  "rideInProgress": "行程正在进行中",
+  "chatWithCourier": "与快递员聊天",
+  "noMessages": "没有消息",
+  "enterAMessage": "输入信息",
+  "waitingForLoginInBrowser": "等你登录浏览器"
+}

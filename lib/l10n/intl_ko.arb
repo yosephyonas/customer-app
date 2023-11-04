@@ -1,0 +1,240 @@
+{
+  "home": "집",
+  "login": "로그인",
+  "logout": "로그 아웃",
+  "theName": "이름",
+  "name": "이름",
+  "fullName": "이름",
+  "enterFullName": "당신의 성함을 입력 해주세요",
+  "phone": "핸드폰",
+  "thePhone": "전화기",
+  "enterPhoneCorrectly": "휴대전화를 올바르게 입력하세요.",
+  "enterFullPhoneNumber": "전체 전화번호를 입력하세요.",
+  "fantasyName": "판타지 이름",
+  "enterCompanyName": "회사 이름을 입력하세요",
+  "email": "이메일",
+  "enterEmail": "이메일을 입력하세요",
+  "enterValidEmail": "유효한 이메일을 입력하세요",
+  "emailNotFound": "이메일을 찾을 수 없음",
+  "waitSendLinkAgain": "링크를 다시 보낼 때까지 기다리십시오.",
+  "password": "비밀번호",
+  "thePassword": "센하",
+  "enterPassword": "비밀번호를 입력하세요",
+  "enterPasswordConfirmation": "비밀번호 확인 입력",
+  "confirmPassword": "암호를 확인",
+  "passwordsNotMatch": "비밀번호가 일치하지 않습니다",
+  "incorrectEmailPassword": "잘못된 이메일 또는 비밀번호",
+  "forgetPassword": "비밀번호를 잊어 버리 셨나요?",
+  "resetPassword": "암호를 재설정",
+  "loginRequired": "로그인 필요",
+  "errorLogin": "로그인 중 오류",
+  "errorRegister": "등록하는 동안 오류가 발생했습니다.",
+  "inputMinimumSize": "{fieldName}은(는) {requiredSize}자 이상이어야 합니다.",
+  "@inputMinimumSize": {
+    "description": "필드의 최소 크기",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "비밀번호"
+      },
+      "requiredSize": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "wantToLeaveRegistration": "등록을 종료하시겠습니까?",
+  "exitingRegistrationDataLost": "등록을 종료하면 이미 입력한 모든 데이터가 손실됩니다.",
+  "cancel": "취소",
+  "declareHaveReadAgreed": "등록함으로써 귀하는 당사의 내용을 읽고 동의했음을 선언합니다.",
+  "termsUsePrivacyPolicy": "이용약관 및 개인정보 보호정책",
+  "leave": "떠나다",
+  "save": "구하다",
+  "dontHaveAccount": "계정이 없으신가요?",
+  "createAccount": "가입하기",
+  "registration": "등록",
+  "register": "등록하다",
+  "haveAnAccount": "계정이있다?",
+  "signIn": "로그인",
+  "signUp": "가입하기",
+  "skipForNow": "일단은 스킵",
+  "skip": "건너뛰다",
+  "verifyConnection": "인터넷 연결 확인",
+  "rememberMe": "날 기억해",
+  "menu": "메뉴",
+  "wantSignOut": "로그아웃하시겠습니까?",
+  "yes": "예",
+  "no": "아니",
+  "theme": "주제",
+  "darkTheme": "어두운 테마",
+  "lightTheme": "밝은 테마",
+  "sendLink": "링크 제출",
+  "linkSubmitted": "링크 제출됨",
+  "errorSendingLink": "링크를 보내는 동안 오류가 발생했습니다.",
+  "linkCopied": "링크가 복사되었습니다",
+  "termsUse": "이용약관",
+  "privacyPolicy": "개인 정보 정책",
+  "and": "그리고",
+  "kilometer": "킬로미터",
+  "mile": "마일",
+  "km": "킬로미터",
+  "mi": "미",
+  "signinWith": "{socialNetwork}로 로그인",
+  "@signinWith": {
+    "placeholders": {
+      "socialNetwork": {
+        "type": "String"
+      }
+    }
+  },
+  "fromPickupLocation": "픽업 위치에서 {distance}",
+  "@fromPickupLocation": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "phoneNumberRequired": "전화번호 필수",
+  "pending": "보류 중",
+  "waiting": "대기 중",
+  "accepted": "수락됨",
+  "rejected": "거부됨",
+  "collected": "모은",
+  "delivered": "배달됨",
+  "cancelled": "취소 된",
+  "completed": "완전한",
+  "noResultsFound": "검색 결과가 없습니다",
+  "boardingPlace": "탑승 장소",
+  "destination": "목적지",
+  "addRideLocation": "승차 위치 추가",
+  "selectAnAddress": "주소 선택",
+  "total": "총",
+  "distance": "거리",
+  "enterNumberComplement": "숫자를 입력하고 보완",
+  "ok": "확인",
+  "changeDriver": "드라이버 변경",
+  "sendRide": "라이드 보내기",
+  "searchingRides": "라이드 검색",
+  "youDontHaveAnyRides": "놀이기구가 없습니다",
+  "support": "지원하다",
+  "accountSupport": "계정 지원",
+  "settings": "설정",
+  "recentRides": "최근 놀이기구",
+  "boardingAddress": "픽업 주소",
+  "rideAddress": "라이드 주소",
+  "rideAddresses": "라이드 주소",
+  "viewCompleteRide": "전체 라이드 보기",
+  "requestedBy": "에 의해 요청",
+  "paymentMethod": "지불 방법",
+  "paymentStatus": "지불 상태",
+  "loadMore": "더 로드",
+  "failedUpdate": "업데이트 실패",
+  "dataUpdatedSuccessfully": "데이터가 성공적으로 업데이트되었습니다.",
+  "camera": "카메라",
+  "gallery": "갤러리",
+  "updatePhoto": "사진 업데이트",
+  "cameraAccess": "카메라 액세스",
+  "galleryAccess": "갤러리 액세스",
+  "allowAppAccessThe": "사진을 보낼 수 있도록 앱이 {accessType}에 액세스하도록 허용",
+  "@allowAppAccessThe": {
+    "description": "액세스 허용",
+    "placeholders": {
+      "accessType": {
+        "type": "String"
+      }
+    }
+  },
+  "thereWasErrorSendingImage": "이미지를 보내는 중에 오류가 발생했습니다.",
+  "goToSettings": "설정으로 바로 가기",
+  "profile": "프로필",
+  "newRide": "새로운 라이드",
+  "observationForDriver": "운전자 관찰",
+  "selectPaymentMethod": "결제 수단 선택",
+  "ifNeededInputObservationDriver": "필요한 경우 운전자에 대한 관찰을 입력하십시오.",
+  "driverDetailsDisplayedRidePanel": "드라이버 세부 정보는 라이드 패널에 표시됩니다.",
+  "sorryNoDriverNearby": "죄송합니다. 현재 이 주소에서 서비스를 제공할 운전 기사가 근처에 없습니다.",
+  "note": "메모",
+  "returnCollectionLocation": "수거 장소로 돌아가기",
+  "estimatedDistance": "예상 거리",
+  "collect": "수집",
+  "boarding": "탑승",
+  "returnCollectLocation": "수거 장소로 돌아가기",
+  "rideStatus": "승차 상태",
+  "totalAmount": "총액",
+  "tryAgain": "다시 시도하십시오",
+  "errorGettingRide": "라이드를 가져오는 중에 오류가 발생했습니다.",
+  "rideNotFound": "라이드를 찾을 수 없음",
+  "ride": "타다",
+  "details": "세부",
+  "addresses": "구애",
+  "driver": "운전사",
+  "sendingRide": "라이드 보내기",
+  "rideCreated": "라이드 생성됨",
+  "returnn": "반품",
+  "awaitingSomething": "{something} 대기 중",
+  "@awaitingSomething": {
+    "placeholders": {
+      "something": {
+        "type": "String"
+      }
+    }
+  },
+  "andMoreLocations": "기타 {quantity} 위치",
+  "@andMoreLocations": {
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "returnPickupLocationRequired": "픽업 장소로 돌아가야 함",
+  "seeWhatWeCanDoForYouToday": "우리가 당신을 위해 탈 수 있는 것을 보십시오",
+  "letsStartWithLogin": "로그인부터 시작하자",
+  "payWith": "{paymentMethod}로 결제",
+  "@payWith": {
+    "placeholders": {
+      "paymentMethod": {
+        "type": "String"
+      }
+    }
+  },
+  "online": "온라인",
+  "tracking": "추적",
+  "paymentCompleted": "결제 완료",
+  "paid": "유급의",
+  "error": "오류",
+  "errorOnPayment": "결제 오류",
+  "deletingYourAccont": "계정 삭제",
+  "deleteAccount": "계정 삭제",
+  "deleteMyAccount": "계정을 삭제하다",
+  "clickOnAdressOpenInMap": "주소를 클릭하면 지도에서 열립니다.",
+  "reallyWantDeleteAccontDataWillBeLost": "정말 계정을 삭제하시겠습니까? 데이터가 영구적으로 손실됩니다.",
+  "inProgress": "진행 중",
+  "whereTo": "어디로?",
+  "nearbyPlaces": "주변 장소",
+  "findingPlace": "장소를 찾는 중...",
+  "unnamedLocation": "이름 없는 위치",
+  "tapSelectThisLocation": "이 위치를 선택하려면 탭하세요.",
+  "vehicleType": "차량 종류",
+  "searchingDriver": "드라이버 검색",
+  "lookingForDriver": "우리는 드라이버를 찾고 있습니다",
+  "cancelRide": "승차 취소",
+  "reallyWantCancelRide": "승차를 취소하시겠습니까?",
+  "driverHeadingYourLocation": "{driverName}이(가) 현재 위치로 향하고 있습니다.",
+  "@driverHeadingYourLocation": {
+    "placeholders": {
+      "driverName": {
+        "type": "String"
+      }
+    }
+  },
+  "brand": "상표",
+  "model": "모델",
+  "plate": "그릇",
+  "rideInProgress": "탑승이 진행됩니다",
+  "chatWithCourier": "택배와 채팅",
+  "noMessages": "메시지 없음",
+  "enterAMessage": "메시지를 입력하세요",
+  "waitingForLoginInBrowser": "ブラウザにログインするのを待っています"
+}

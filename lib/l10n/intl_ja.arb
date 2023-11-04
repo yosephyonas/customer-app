@@ -1,0 +1,240 @@
+{
+  "home": "家",
+  "login": "ログイン",
+  "logout": "ログアウト",
+  "theName": "名前",
+  "name": "名前",
+  "fullName": "フルネーム",
+  "enterFullName": "フルネームを入れて下さい",
+  "phone": "電話",
+  "thePhone": "電話",
+  "enterPhoneCorrectly": "電話番号を正しく入力してください",
+  "enterFullPhoneNumber": "電話番号を入力してください",
+  "fantasyName": "ファンタジー名",
+  "enterCompanyName": "会社名を入力してください",
+  "email": "Eメール",
+  "enterEmail": "メールアドレスを入力",
+  "enterValidEmail": "有効なメールアドレスを入力してください",
+  "emailNotFound": "メールが見つかりません",
+  "waitSendLinkAgain": "リンクの再送信を待ちます",
+  "password": "パスワード",
+  "thePassword": "せんは",
+  "enterPassword": "パスワードを入力してください",
+  "enterPasswordConfirmation": "パスワードの確認を入力してください",
+  "confirmPassword": "あなたのパスワードを確認",
+  "passwordsNotMatch": "パスワードが一致していません",
+  "incorrectEmailPassword": "メールアドレスまたはパスワードが正しくありません",
+  "forgetPassword": "パスワードを忘れましたか？",
+  "resetPassword": "パスワードを再設定する",
+  "loginRequired": "ログインが必要です",
+  "errorLogin": "ログイン中のエラー",
+  "errorRegister": "登録中のエラー",
+  "inputMinimumSize": "{fieldName} は {requiredSize} 文字以上にする必要があります",
+  "@inputMinimumSize": {
+    "description": "フィールドの最小サイズ",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "パスワード"
+      },
+      "requiredSize": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "wantToLeaveRegistration": "登録をやめますか？",
+  "exitingRegistrationDataLost": "登録を終了すると、すでに入力されているすべてのデータが失われます。",
+  "cancel": "キャンセル",
+  "declareHaveReadAgreed": "登録することにより、あなたは私たちの",
+  "termsUsePrivacyPolicy": "利用規約とプライバシー ポリシー",
+  "leave": "離れる",
+  "save": "保存",
+  "dontHaveAccount": "アカウントをお持ちでない場合",
+  "createAccount": "サインアップ",
+  "registration": "登録",
+  "register": "登録",
+  "haveAnAccount": "アカウントを持っています？",
+  "signIn": "ログイン",
+  "signUp": "サインアップ",
+  "skipForNow": "今のところスキップ",
+  "skip": "スキップ",
+  "verifyConnection": "インターネット接続を確認する",
+  "rememberMe": "私を覚えてますか",
+  "menu": "メニュー",
+  "wantSignOut": "サインアウトしますか?",
+  "yes": "はい",
+  "no": "いいえ",
+  "theme": "テーマ",
+  "darkTheme": "暗いテーマ",
+  "lightTheme": "ライトテーマ",
+  "sendLink": "リンクを送信",
+  "linkSubmitted": "リンクを送信しました",
+  "errorSendingLink": "リンクの送信エラー",
+  "linkCopied": "リンクをコピーしました",
+  "termsUse": "利用規約",
+  "privacyPolicy": "プライバシーポリシー",
+  "and": "と",
+  "kilometer": "キロメートル",
+  "mile": "マイル",
+  "km": "キロ",
+  "mi": "ミ",
+  "signinWith": "{socialNetwork} でサインイン",
+  "@signinWith": {
+    "placeholders": {
+      "socialNetwork": {
+        "type": "String"
+      }
+    }
+  },
+  "fromPickupLocation": "乗車場所からの{distance}",
+  "@fromPickupLocation": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "phoneNumberRequired": "電話番号必須",
+  "pending": "保留中",
+  "waiting": "待っている",
+  "accepted": "承認済み",
+  "rejected": "却下",
+  "collected": "集めました",
+  "delivered": "配達済み",
+  "cancelled": "キャンセル",
+  "completed": "完了",
+  "noResultsFound": "結果が見つかりません",
+  "boardingPlace": "乗船場所",
+  "destination": "行き先",
+  "addRideLocation": "乗車場所を追加",
+  "selectAnAddress": "住所を選択",
+  "total": "合計",
+  "distance": "距離",
+  "enterNumberComplement": "数字を入力して補完する",
+  "ok": "Ok",
+  "changeDriver": "ドライバーの変更",
+  "sendRide": "配車を送る",
+  "searchingRides": "乗り物の検索",
+  "youDontHaveAnyRides": "乗り物はありません",
+  "support": "サポート",
+  "accountSupport": "アカウントサポート",
+  "settings": "設定",
+  "recentRides": "最近の乗り物",
+  "boardingAddress": "アドレスをピックアップ",
+  "rideAddress": "乗車住所",
+  "rideAddresses": "乗車場所",
+  "viewCompleteRide": "完全なライドを見る",
+  "requestedBy": "に要求された",
+  "paymentMethod": "支払方法",
+  "paymentStatus": "支払い状況",
+  "loadMore": "もっと読み込む",
+  "failedUpdate": "更新できませんでした",
+  "dataUpdatedSuccessfully": "データが正常に更新されました",
+  "camera": "カメラ",
+  "gallery": "ギャラリー",
+  "updatePhoto": "写真を更新",
+  "cameraAccess": "カメラへのアクセス",
+  "galleryAccess": "ギャラリーへのアクセス",
+  "allowAppAccessThe": "写真を送信できるようにするには、アプリが {accessType} にアクセスすることを許可してください",
+  "@allowAppAccessThe": {
+    "description": "アクセスを許可する",
+    "placeholders": {
+      "accessType": {
+        "type": "String"
+      }
+    }
+  },
+  "thereWasErrorSendingImage": "画像の送信中にエラーが発生しました。",
+  "goToSettings": "設定に移動",
+  "profile": "プロフィール",
+  "newRide": "新しい乗り物",
+  "observationForDriver": "ドライバーの観察",
+  "selectPaymentMethod": "お支払い方法を選択",
+  "ifNeededInputObservationDriver": "必要に応じて、ドライバーの観察を入力します",
+  "driverDetailsDisplayedRidePanel": "ドライバーの詳細は、ライド パネルに表示されます。",
+  "sorryNoDriverNearby": "申し訳ありませんが、現在、この住所でサービスを提供できるドライバーが近くにいません",
+  "note": "ノート",
+  "returnCollectionLocation": "回収場所に戻る",
+  "estimatedDistance": "推定距離",
+  "collect": "収集",
+  "boarding": "搭乗",
+  "returnCollectLocation": "回収場所に戻る",
+  "rideStatus": "乗車状況",
+  "totalAmount": "合計金額",
+  "tryAgain": "再試行する",
+  "errorGettingRide": "配車エラー",
+  "rideNotFound": "乗車が見つかりません",
+  "ride": "乗る",
+  "details": "詳細",
+  "addresses": "住所",
+  "driver": "運転者",
+  "sendingRide": "乗り物を送る",
+  "rideCreated": "ライドが作成されました",
+  "returnn": "戻る",
+  "awaitingSomething": "{something}を待っています",
+  "@awaitingSomething": {
+    "placeholders": {
+      "something": {
+        "type": "String"
+      }
+    }
+  },
+  "andMoreLocations": "その他の {quantity} か所",
+  "@andMoreLocations": {
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "returnPickupLocationRequired": "受け取り場所への返却が必要",
+  "seeWhatWeCanDoForYouToday": "私たちがあなたのために乗れるものを見てください",
+  "letsStartWithLogin": "ログインから始めましょう",
+  "payWith": "{paymentMethod} で支払う",
+  "@payWith": {
+    "placeholders": {
+      "paymentMethod": {
+        "type": "String"
+      }
+    }
+  },
+  "online": "オンライン",
+  "tracking": "追跡",
+  "paymentCompleted": "お支払い完了",
+  "paid": "有料",
+  "error": "エラー",
+  "errorOnPayment": "支払いのエラー",
+  "deletingYourAccont": "アカウントの削除",
+  "deleteAccount": "アカウントを削除する",
+  "deleteMyAccount": "アカウントを削除します",
+  "clickOnAdressOpenInMap": "住所をクリックすると地図で開きます",
+  "reallyWantDeleteAccontDataWillBeLost": "本当にアカウントを削除しますか?データは完全に失われます。",
+  "inProgress": "進行中",
+  "whereTo": "どこへ？",
+  "nearbyPlaces": "近くの場所",
+  "findingPlace": "場所を探しています...",
+  "unnamedLocation": "名前のない場所",
+  "tapSelectThisLocation": "タップしてこの場所を選択します",
+  "vehicleType": "車両タイプ",
+  "searchingDriver": "ドライバーを探しています",
+  "lookingForDriver": "ドライバーを募集しています",
+  "cancelRide": "乗車をキャンセル",
+  "reallyWantCancelRide": "本当に乗車をキャンセルしますか?",
+  "driverHeadingYourLocation": "{driverName} があなたの場所に向かっています",
+  "@driverHeadingYourLocation": {
+    "placeholders": {
+      "driverName": {
+        "type": "String"
+      }
+    }
+  },
+  "brand": "ブランド",
+  "model": "モデル",
+  "plate": "皿",
+  "rideInProgress": "乗車中です",
+  "chatWithCourier": "クーリエとチャット",
+  "noMessages": "メッセージがありません",
+  "enterAMessage": "メッセージを入力してください",
+  "waitingForLoginInBrowser": "ブラウザにログインするのを待っています"
+}

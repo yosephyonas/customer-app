@@ -1,0 +1,240 @@
+{
+  "home": "घर",
+  "login": "लॉग इन करें",
+  "logout": "लॉग आउट",
+  "theName": "नाम",
+  "name": "नाम",
+  "fullName": "पूरा नाम",
+  "enterFullName": "अपना पूरा नाम भरें",
+  "phone": "फ़ोन",
+  "thePhone": "फोन",
+  "enterPhoneCorrectly": "अपना फ़ोन सही दर्ज करें",
+  "enterFullPhoneNumber": "अपना पूरा फोन दर्ज करें",
+  "fantasyName": "काल्पनिक नाम",
+  "enterCompanyName": "कंपनी का नाम दर्ज करें",
+  "email": "ईमेल",
+  "enterEmail": "अपना ईमेल दर्ज करें",
+  "enterValidEmail": "एक वैध ईमेल प्रविष्ट करें",
+  "emailNotFound": "ईमेल नहीं मिला",
+  "waitSendLinkAgain": "लिंक फिर से भेजने के लिए प्रतीक्षा करें",
+  "password": "पासवर्ड",
+  "thePassword": "एक सेन्हा",
+  "enterPassword": "अपना पासवर्ड डालें",
+  "enterPasswordConfirmation": "पासवर्ड पुष्टि दर्ज करें",
+  "confirmPassword": "अपने पासवर्ड की पुष्टि करें",
+  "passwordsNotMatch": "पासवर्ड मेल नहीं खाते",
+  "incorrectEmailPassword": "गलत ईमेल या पासवर्ड",
+  "forgetPassword": "अपना पासवर्ड भूल गए हैं?",
+  "resetPassword": "पासवर्ड रीसेट",
+  "loginRequired": "लॉगिन आवश्यक",
+  "errorLogin": "लॉग इन करते समय त्रुटि",
+  "errorRegister": "पंजीकरण करते समय त्रुटि",
+  "inputMinimumSize": "{fieldName} कम से कम {requiredSize} वर्ण लंबा होना चाहिए",
+  "@inputMinimumSize": {
+    "description": "क्षेत्र का न्यूनतम आकार",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "पासवर्ड"
+      },
+      "requiredSize": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "wantToLeaveRegistration": "क्या आप पंजीकरण छोड़ना चाहते हैं?",
+  "exitingRegistrationDataLost": "पंजीकरण से बाहर निकलने पर, पहले से दर्ज किया गया सभी डेटा खो जाएगा।",
+  "cancel": "रद्द करना",
+  "declareHaveReadAgreed": "पंजीकरण करके, आप घोषणा करते हैं कि आपने हमारे . को पढ़ लिया है और इससे सहमत हैं",
+  "termsUsePrivacyPolicy": "उपयोग की शर्तें और गोपनीयता नीति",
+  "leave": "छुट्टी",
+  "save": "बचाना",
+  "dontHaveAccount": "खाता नहीं है?",
+  "createAccount": "साइन अप करें",
+  "registration": "पंजीकरण",
+  "register": "पंजीकरण करवाना",
+  "haveAnAccount": "एक खाता है?",
+  "signIn": "साइन इन करें",
+  "signUp": "साइन अप करें",
+  "skipForNow": "अभी रहने दो",
+  "skip": "छोड़ें",
+  "verifyConnection": "अपना इंटरनेट कनेक्शन सत्यापित करें",
+  "rememberMe": "पहचाना की नहीं",
+  "menu": "मेन्यू",
+  "wantSignOut": "साइन आउट करना चाहते हैं?",
+  "yes": "हाँ",
+  "no": "नहीं",
+  "theme": "थीम",
+  "darkTheme": "डार्क थीम",
+  "lightTheme": "लाइट थीम",
+  "sendLink": "लिंक सबमिट करें",
+  "linkSubmitted": "लिंक सबमिट किया गया",
+  "errorSendingLink": "लिंक भेजने में त्रुटि",
+  "linkCopied": "लिंक कॉपी कर लिया गया है",
+  "termsUse": "उपयोग की शर्तें",
+  "privacyPolicy": "गोपनीयता नीति",
+  "and": "तथा",
+  "kilometer": "किलोमीटर",
+  "mile": "मील",
+  "km": "किमी",
+  "mi": "एम आई",
+  "signinWith": "{socialNetwork} से साइन इन करें",
+  "@signinWith": {
+    "placeholders": {
+      "socialNetwork": {
+        "type": "String"
+      }
+    }
+  },
+  "fromPickupLocation": "पिक-अप स्थान से {distance}",
+  "@fromPickupLocation": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "phoneNumberRequired": "फ़ोन नंबर आवश्यक",
+  "pending": "लंबित",
+  "waiting": "प्रतीक्षा करना",
+  "accepted": "को स्वीकृत",
+  "rejected": "अस्वीकृत",
+  "collected": "जुटाया हुआ।",
+  "delivered": "पहुंचा दिया",
+  "cancelled": "रद्द",
+  "completed": "पूरा हुआ",
+  "noResultsFound": "कोई परिणाम नहीं मिला",
+  "boardingPlace": "बोर्डिंग प्लेस",
+  "destination": "मंज़िल",
+  "addRideLocation": "सवारी स्थान जोड़ें",
+  "selectAnAddress": "एक पता चुनें",
+  "total": "कुल",
+  "distance": "दूरी",
+  "enterNumberComplement": "संख्या दर्ज करें और पूरक करें",
+  "ok": "ठीक",
+  "changeDriver": "ड्राइवर बदलें",
+  "sendRide": "सवारी भेजें",
+  "searchingRides": "खोज सवारी",
+  "youDontHaveAnyRides": "आपकी कोई सवारी नहीं है",
+  "support": "सहायता",
+  "accountSupport": "खाता समर्थन",
+  "settings": "समायोजन",
+  "recentRides": "हाल की सवारी",
+  "boardingAddress": "पता चुनें",
+  "rideAddress": "सवारी का पता",
+  "rideAddresses": "सवारी के पते",
+  "viewCompleteRide": "पूरी सवारी देखें",
+  "requestedBy": "द्वारा अनुरोध किया गया",
+  "paymentMethod": "भुगतान का तरीका",
+  "paymentStatus": "भुगतान की स्थिति",
+  "loadMore": "और लोड करें",
+  "failedUpdate": "अपडेट करने में विफल",
+  "dataUpdatedSuccessfully": "डेटा सफलतापूर्वक अपडेट किया गया",
+  "camera": "कैमरा",
+  "gallery": "गेलरी",
+  "updatePhoto": "फोटो अपडेट करें",
+  "cameraAccess": "कैमरा एक्सेस",
+  "galleryAccess": "गैलरी तक पहुंच",
+  "allowAppAccessThe": "फ़ोटो भेजने में सक्षम होने के लिए ऐप्स को {accessType} तक पहुंचने दें",
+  "@allowAppAccessThe": {
+    "description": "उपयोग की अनुमति दें",
+    "placeholders": {
+      "accessType": {
+        "type": "String"
+      }
+    }
+  },
+  "thereWasErrorSendingImage": "छवि भेजने में एक त्रुटि हुई।",
+  "goToSettings": "सेटिंग्स में जाओ",
+  "profile": "प्रोफ़ाइल",
+  "newRide": "नई सवारी",
+  "observationForDriver": "चालक के लिए अवलोकन",
+  "selectPaymentMethod": "भुगतान विधि का चयन करें",
+  "ifNeededInputObservationDriver": "यदि आवश्यक हो, तो ड्राइवर के लिए एक अवलोकन इनपुट करें",
+  "driverDetailsDisplayedRidePanel": "चालक विवरण सवारी पैनल पर प्रदर्शित होते हैं।",
+  "sorryNoDriverNearby": "क्षमा करें, इस समय इस पते पर आपकी सेवा करने के लिए आस-पास कोई ड्राइवर नहीं है",
+  "note": "टिप्पणी",
+  "returnCollectionLocation": "संग्रह स्थान पर लौटें",
+  "estimatedDistance": "अनुमानित दूरी",
+  "collect": "इकट्ठा करना",
+  "boarding": "बोर्डिंग",
+  "returnCollectLocation": "संग्रह स्थान पर लौटें",
+  "rideStatus": "सवारी की स्थिति",
+  "totalAmount": "कुल रकम",
+  "tryAgain": "पुनः प्रयास करें",
+  "errorGettingRide": "सवारी प्राप्त करने में त्रुटि",
+  "rideNotFound": "सवारी नहीं मिली",
+  "ride": "सवारी",
+  "details": "विवरण",
+  "addresses": "पतों",
+  "driver": "चालक",
+  "sendingRide": "सवारी भेजना",
+  "rideCreated": "सवारी बनाई",
+  "returnn": "वापस करना",
+  "awaitingSomething": "प्रतीक्षारत {something}",
+  "@awaitingSomething": {
+    "placeholders": {
+      "something": {
+        "type": "String"
+      }
+    }
+  },
+  "andMoreLocations": "और अधिक {quantity} स्थान",
+  "@andMoreLocations": {
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "returnPickupLocationRequired": "पिकअप स्थान पर वापस आना आवश्यक",
+  "seeWhatWeCanDoForYouToday": "देखें कि हम आपके लिए क्या सवारी कर सकते हैं",
+  "letsStartWithLogin": "आइए लॉगिन से शुरू करें",
+  "payWith": "{paymentMethod} से भुगतान करें",
+  "@payWith": {
+    "placeholders": {
+      "paymentMethod": {
+        "type": "String"
+      }
+    }
+  },
+  "online": "ऑनलाइन",
+  "tracking": "नज़र रखना",
+  "paymentCompleted": "भुगतान पूरा हुआ",
+  "paid": "भुगतान किया गया",
+  "error": "गलती",
+  "errorOnPayment": "भुगतान में त्रुटि",
+  "deletingYourAccont": "अपना खाता हटाना",
+  "deleteAccount": "खाता हटा दो",
+  "deleteMyAccount": "मेरा एकाउंट हटा दो",
+  "clickOnAdressOpenInMap": "पते को मानचित्र पर खोलने के लिए उस पर क्लिक करें",
+  "reallyWantDeleteAccontDataWillBeLost": "क्या आप वाकई अपना खाता हटाना चाहते हैं? आपका डेटा स्थायी रूप से खो जाएगा।",
+  "inProgress": "चालू",
+  "whereTo": "जहां?",
+  "nearbyPlaces": "निकटवर्ती स्थान",
+  "findingPlace": "जगह ढूंढी जा रही है...",
+  "unnamedLocation": "अनाम स्थान",
+  "tapSelectThisLocation": "इस स्थान को चुनने के लिए टैप करें",
+  "vehicleType": "वाहन का प्रकार",
+  "searchingDriver": "ड्राइवर खोज रहा है",
+  "lookingForDriver": "हम एक ड्राइवर की तलाश कर रहे हैं",
+  "cancelRide": "सवारी रद्द करें",
+  "reallyWantCancelRide": "क्या आप वाकई सवारी रद्द करना चाहते हैं?",
+  "driverHeadingYourLocation": "{driverName} आपके स्थान की ओर जा रहा है",
+  "@driverHeadingYourLocation": {
+    "placeholders": {
+      "driverName": {
+        "type": "String"
+      }
+    }
+  },
+  "brand": "ब्रैंड",
+  "model": "नमूना",
+  "plate": "तश्तरी",
+  "rideInProgress": "सफ़र जारी है",
+  "chatWithCourier": "कूरियर के साथ चैट करें",
+  "noMessages": "कोई संदेश नहीं",
+  "enterAMessage": "एक संदेश दर्ज करें",
+  "waitingForLoginInBrowser": "ब्राउज़र में लॉगिन करने की प्रतीक्षा कर रहा है"
+}

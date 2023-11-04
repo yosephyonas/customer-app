@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "492263211648",
+    "project_id": "flubber-demo",
+    "storage_bucket": "flubber-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492263211648:android:03ad9193ac07c359769c65",
+        "android_client_info": {
+          "package_name": "com.branchminer.flubbercustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492263211648-dphoc60krkvvb56qvhcqds3qesejre86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBmYfTmCsuE2L3tr1vPSboAk_U92TP2yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492263211648-dphoc60krkvvb56qvhcqds3qesejre86.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "492263211648-jgaatap9ssq52ktpjr4h9puhvohvrf3a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.branchminer.flubbercustomer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

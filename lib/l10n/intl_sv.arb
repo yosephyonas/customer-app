@@ -1,0 +1,240 @@
+{
+  "home": "Hem",
+  "login": "Logga in",
+  "logout": "Logga ut",
+  "theName": "Namnet",
+  "name": "namn",
+  "fullName": "Fullständiga namn",
+  "enterFullName": "Ange ditt fullständiga namn",
+  "phone": "Telefon",
+  "thePhone": "Telefonen",
+  "enterPhoneCorrectly": "Ange din telefon korrekt",
+  "enterFullPhoneNumber": "Ange hela din telefon",
+  "fantasyName": "Fantasinamn",
+  "enterCompanyName": "Ange företagets namn",
+  "email": "E-post",
+  "enterEmail": "Skriv in din e-postadress",
+  "enterValidEmail": "Ange en giltig e-postadress",
+  "emailNotFound": "E-post hittades inte",
+  "waitSendLinkAgain": "Vänta med att skicka länken igen",
+  "password": "Lösenord",
+  "thePassword": "En senha",
+  "enterPassword": "Ange ditt lösenord",
+  "enterPasswordConfirmation": "Ange lösenordsbekräftelse",
+  "confirmPassword": "Bekräfta ditt lösenord",
+  "passwordsNotMatch": "Lösenorden matchar inte",
+  "incorrectEmailPassword": "Felaktig e-postadress eller lösenord",
+  "forgetPassword": "Glömt ditt lösenord?",
+  "resetPassword": "Återställ lösenord",
+  "loginRequired": "Inloggning Krävs",
+  "errorLogin": "Fel vid inloggning",
+  "errorRegister": "Fel vid registrering",
+  "inputMinimumSize": "{fieldName} måste vara minst {requiredSize} tecken lång",
+  "@inputMinimumSize": {
+    "description": "Minsta storlek på fältet",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "Lösenord"
+      },
+      "requiredSize": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "wantToLeaveRegistration": "Vill du lämna registreringen?",
+  "exitingRegistrationDataLost": "När du avslutar registreringen kommer alla uppgifter som redan har angetts att gå förlorade.",
+  "cancel": "Avbryt",
+  "declareHaveReadAgreed": "Genom att registrera dig intygar du att du har läst och godkänner vår",
+  "termsUsePrivacyPolicy": "Användarvillkor och sekretesspolicy",
+  "leave": "Lämna",
+  "save": "Spara",
+  "dontHaveAccount": "Har du inget konto?",
+  "createAccount": "Bli Medlem",
+  "registration": "Registrering",
+  "register": "Registrera",
+  "haveAnAccount": "Har ett konto?",
+  "signIn": "Logga in",
+  "signUp": "Bli Medlem",
+  "skipForNow": "Hoppa över nu",
+  "skip": "Hoppa",
+  "verifyConnection": "Verifiera din internetanslutning",
+  "rememberMe": "Kom ihåg mig",
+  "menu": "Meny",
+  "wantSignOut": "Vill du logga ut?",
+  "yes": "Ja",
+  "no": "Nej",
+  "theme": "Tema",
+  "darkTheme": "Mörkt tema",
+  "lightTheme": "Lätt tema",
+  "sendLink": "Skicka länk",
+  "linkSubmitted": "Länk skickad",
+  "errorSendingLink": "Det gick inte att skicka länk",
+  "linkCopied": "Länken har kopierats",
+  "termsUse": "Villkor",
+  "privacyPolicy": "Integritetspolicy",
+  "and": "och",
+  "kilometer": "Kilometer",
+  "mile": "Mile",
+  "km": "Km",
+  "mi": "Mi",
+  "signinWith": "Logga in med {socialNetwork}",
+  "@signinWith": {
+    "placeholders": {
+      "socialNetwork": {
+        "type": "String"
+      }
+    }
+  },
+  "fromPickupLocation": "{distance} från upphämtningsplatsen",
+  "@fromPickupLocation": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "phoneNumberRequired": "Telefonnummer krävs",
+  "pending": "I väntan på",
+  "waiting": "Väntar",
+  "accepted": "Accepterad",
+  "rejected": "avvisade",
+  "collected": "Samlade in",
+  "delivered": "Levereras",
+  "cancelled": "Inställt",
+  "completed": "Avslutad",
+  "noResultsFound": "Inga resultat funna",
+  "boardingPlace": "Påstigningsplats",
+  "destination": "Destination",
+  "addRideLocation": "Lägg till färdplats",
+  "selectAnAddress": "Välj en adress",
+  "total": "Total",
+  "distance": "Distans",
+  "enterNumberComplement": "Ange numret och komplettera",
+  "ok": "Ok",
+  "changeDriver": "Byt drivrutin",
+  "sendRide": "Skicka skjuts",
+  "searchingRides": "Söker åkattraktioner",
+  "youDontHaveAnyRides": "Du har inga turer",
+  "support": "Stöd",
+  "accountSupport": "Kontostöd",
+  "settings": "inställningar",
+  "recentRides": "Senaste turer",
+  "boardingAddress": "Ta upp adress",
+  "rideAddress": "Åkadress",
+  "rideAddresses": "Åkadresser",
+  "viewCompleteRide": "Se komplett åktur",
+  "requestedBy": "Efterfrågad av",
+  "paymentMethod": "Betalningsmetod",
+  "paymentStatus": "Betalningsstatus",
+  "loadMore": "Ladda mer",
+  "failedUpdate": "Det gick inte att uppdatera",
+  "dataUpdatedSuccessfully": "Data har uppdaterats",
+  "camera": "Kamera",
+  "gallery": "Galleri",
+  "updatePhoto": "Uppdatera foto",
+  "cameraAccess": "Kameraåtkomst",
+  "galleryAccess": "Tillgång till Galleri",
+  "allowAppAccessThe": "Tillåt appen att komma åt {accessType} för att kunna skicka foton",
+  "@allowAppAccessThe": {
+    "description": "Tillåta åtkomst",
+    "placeholders": {
+      "accessType": {
+        "type": "String"
+      }
+    }
+  },
+  "thereWasErrorSendingImage": "Det gick inte att skicka bilden.",
+  "goToSettings": "Gå till Inställningar",
+  "profile": "Profil",
+  "newRide": "Ny tur",
+  "observationForDriver": "Observation för föraren",
+  "selectPaymentMethod": "Välj betalningsmetod",
+  "ifNeededInputObservationDriver": "Om det behövs, ange en observation för föraren",
+  "driverDetailsDisplayedRidePanel": "Förarens detaljer visas på åkpanelen.",
+  "sorryNoDriverNearby": "Tyvärr finns det inga förare i närheten som kan hjälpa dig på den här adressen för tillfället",
+  "note": "Notera",
+  "returnCollectionLocation": "Återgå till insamlingsplatsen",
+  "estimatedDistance": "Beräknat avstånd",
+  "collect": "Samla",
+  "boarding": "Ombordstigning",
+  "returnCollectLocation": "Återgå till insamlingsplatsen",
+  "rideStatus": "Åkstatus",
+  "totalAmount": "Totala summan",
+  "tryAgain": "Försök igen",
+  "errorGettingRide": "Det gick inte att hämta skjuts",
+  "rideNotFound": "Åkturen hittades inte",
+  "ride": "Rida",
+  "details": "Detaljer",
+  "addresses": "Adresser",
+  "driver": "Förare",
+  "sendingRide": "Skickar skjuts",
+  "rideCreated": "Åk skapad",
+  "returnn": "Lämna tillbaka",
+  "awaitingSomething": "Väntar på {something}",
+  "@awaitingSomething": {
+    "placeholders": {
+      "something": {
+        "type": "String"
+      }
+    }
+  },
+  "andMoreLocations": "och fler {quantity} platser",
+  "@andMoreLocations": {
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "returnPickupLocationRequired": "Retur till avhämtningsställe krävs",
+  "seeWhatWeCanDoForYouToday": "Se vad vi kan åka åt dig",
+  "letsStartWithLogin": "Låt oss börja med inloggning",
+  "payWith": "Betala med {paymentMethod}",
+  "@payWith": {
+    "placeholders": {
+      "paymentMethod": {
+        "type": "String"
+      }
+    }
+  },
+  "online": "Uppkopplad",
+  "tracking": "Spårning",
+  "paymentCompleted": "Betalning genomförd",
+  "paid": "Betalt",
+  "error": "Fel",
+  "errorOnPayment": "Fel vid betalning",
+  "deletingYourAccont": "Ta bort ditt konto",
+  "deleteAccount": "Radera konto",
+  "deleteMyAccount": "Ta bort mitt konto",
+  "clickOnAdressOpenInMap": "Klicka på adressen för att öppna den på kartan",
+  "reallyWantDeleteAccontDataWillBeLost": "Vill du verkligen ta bort ditt konto? Din data kommer att gå förlorad permanent.",
+  "inProgress": "Pågående",
+  "whereTo": "Vart?",
+  "nearbyPlaces": "Närliggande platser",
+  "findingPlace": "Hittar plats...",
+  "unnamedLocation": "Namnlös plats",
+  "tapSelectThisLocation": "Tryck för att välja den här platsen",
+  "vehicleType": "Fordonstyp",
+  "searchingDriver": "Söker drivrutin",
+  "lookingForDriver": "Vi söker en chaufför",
+  "cancelRide": "Avbryt resan",
+  "reallyWantCancelRide": "Vill du verkligen avbryta resan?",
+  "driverHeadingYourLocation": "{driverName} är på väg till din plats",
+  "@driverHeadingYourLocation": {
+    "placeholders": {
+      "driverName": {
+        "type": "String"
+      }
+    }
+  },
+  "brand": "varumärke",
+  "model": "Modell",
+  "plate": "Tallrik",
+  "rideInProgress": "Turen pågår",
+  "chatWithCourier": "Chatta med Courier",
+  "noMessages": "Inga meddelanden",
+  "enterAMessage": "Ange ett meddelande",
+  "waitingForLoginInBrowser": "Väntar på att du ska logga in i webbläsaren"
+}

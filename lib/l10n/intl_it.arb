@@ -1,0 +1,240 @@
+{
+  "home": "Casa",
+  "login": "Login",
+  "logout": "Disconnettersi",
+  "theName": "Il nome",
+  "name": "Nome",
+  "fullName": "Nome e cognome",
+  "enterFullName": "Inserisci il tuo nome e cognome",
+  "phone": "Telefono",
+  "thePhone": "Il telefono",
+  "enterPhoneCorrectly": "Inserisci il tuo telefono correttamente",
+  "enterFullPhoneNumber": "Inserisci il tuo telefono completo",
+  "fantasyName": "Nome di fantasia",
+  "enterCompanyName": "Immettere il nome dell'azienda",
+  "email": "E-mail",
+  "enterEmail": "Inserisci il tuo indirizzo email",
+  "enterValidEmail": "Inserisci un'e-mail valida",
+  "emailNotFound": "E-mail non trovata",
+  "waitSendLinkAgain": "Attendi di inviare nuovamente il link",
+  "password": "Parola d'ordine",
+  "thePassword": "Una senhà",
+  "enterPassword": "Inserisci la tua password",
+  "enterPasswordConfirmation": "Immettere la conferma della password",
+  "confirmPassword": "Conferma la tua password",
+  "passwordsNotMatch": "le passwords non corrispondono",
+  "incorrectEmailPassword": "Email o password sbagliate",
+  "forgetPassword": "hai dimenticato la password?",
+  "resetPassword": "Resetta la password",
+  "loginRequired": "Accesso richiesto",
+  "errorLogin": "Errore durante l'accesso",
+  "errorRegister": "Errore durante la registrazione",
+  "inputMinimumSize": "{fieldName} deve contenere almeno {requiredSize} caratteri",
+  "@inputMinimumSize": {
+    "description": "Dimensione minima del campo",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "Parola d'ordine"
+      },
+      "requiredSize": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "wantToLeaveRegistration": "Vuoi lasciare la registrazione?",
+  "exitingRegistrationDataLost": "All'uscita dalla registrazione, tutti i dati già inseriti andranno persi.",
+  "cancel": "Annulla",
+  "declareHaveReadAgreed": "Registrandoti dichiari di aver letto e di accettare il ns",
+  "termsUsePrivacyPolicy": "Condizioni d'uso e Informativa sulla privacy",
+  "leave": "Lasciare",
+  "save": "Salva",
+  "dontHaveAccount": "Non hai un account?",
+  "createAccount": "Iscrizione",
+  "registration": "Registrazione",
+  "register": "Registrati",
+  "haveAnAccount": "Avere un conto?",
+  "signIn": "Registrazione",
+  "signUp": "Iscrizione",
+  "skipForNow": "Salta per ora",
+  "skip": "Saltare",
+  "verifyConnection": "Verifica la tua connessione a Internet",
+  "rememberMe": "Ricordati di me",
+  "menu": "Menù",
+  "wantSignOut": "Vuoi uscire?",
+  "yes": "sì",
+  "no": "No",
+  "theme": "Tema",
+  "darkTheme": "Tema scuro",
+  "lightTheme": "Tema leggero",
+  "sendLink": "Invia collegamento",
+  "linkSubmitted": "Link inviato",
+  "errorSendingLink": "Errore durante l'invio del collegamento",
+  "linkCopied": "Il collegamento è stato copiato",
+  "termsUse": "Termini di utilizzo",
+  "privacyPolicy": "politica sulla riservatezza",
+  "and": "e",
+  "kilometer": "Chilometro",
+  "mile": "Miglio",
+  "km": "Km",
+  "mi": "Mi",
+  "signinWith": "Accedi con {socialNetwork}",
+  "@signinWith": {
+    "placeholders": {
+      "socialNetwork": {
+        "type": "String"
+      }
+    }
+  },
+  "fromPickupLocation": "{distance} dal luogo di ritiro",
+  "@fromPickupLocation": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "phoneNumberRequired": "Numero di telefono richiesto",
+  "pending": "In attesa di",
+  "waiting": "In attesa",
+  "accepted": "Accettato",
+  "rejected": "Respinto",
+  "collected": "Raccolto",
+  "delivered": "Consegnato",
+  "cancelled": "Annullato",
+  "completed": "Completato",
+  "noResultsFound": "nessun risultato trovato",
+  "boardingPlace": "Luogo di imbarco",
+  "destination": "Destinazione",
+  "addRideLocation": "Aggiungi la posizione della corsa",
+  "selectAnAddress": "Seleziona un indirizzo",
+  "total": "Totale",
+  "distance": "Distanza",
+  "enterNumberComplement": "Inserisci il numero e il complemento",
+  "ok": "Ok",
+  "changeDriver": "Cambia driver",
+  "sendRide": "Invia corsa",
+  "searchingRides": "Alla ricerca di corse",
+  "youDontHaveAnyRides": "Non hai corse",
+  "support": "Supporto",
+  "accountSupport": "Supporto per l'account",
+  "settings": "Impostazioni",
+  "recentRides": "Corse recenti",
+  "boardingAddress": "Indirizzo di ritiro",
+  "rideAddress": "Indirizzo della corsa",
+  "rideAddresses": "Indirizzi di guida",
+  "viewCompleteRide": "Visualizza Giro completo",
+  "requestedBy": "Richiesto da",
+  "paymentMethod": "Metodo di pagamento",
+  "paymentStatus": "Stato del pagamento",
+  "loadMore": "Carica di più",
+  "failedUpdate": "Impossibile aggiornare",
+  "dataUpdatedSuccessfully": "Dati aggiornati correttamente",
+  "camera": "Telecamera",
+  "gallery": "Galleria",
+  "updatePhoto": "Aggiorna foto",
+  "cameraAccess": "Accesso alla fotocamera",
+  "galleryAccess": "Accesso alla Galleria",
+  "allowAppAccessThe": "Consenti all'app di accedere a {accessType} per poter inviare foto",
+  "@allowAppAccessThe": {
+    "description": "Consentire l'accesso",
+    "placeholders": {
+      "accessType": {
+        "type": "String"
+      }
+    }
+  },
+  "thereWasErrorSendingImage": "Si è verificato un errore durante l'invio dell'immagine.",
+  "goToSettings": "Vai alle impostazioni",
+  "profile": "Profilo",
+  "newRide": "Nuova corsa",
+  "observationForDriver": "Osservazione per il conducente",
+  "selectPaymentMethod": "Seleziona il metodo di pagamento",
+  "ifNeededInputObservationDriver": "Se necessario, inserire un'osservazione per il conducente",
+  "driverDetailsDisplayedRidePanel": "I dettagli del conducente vengono visualizzati sul pannello della corsa.",
+  "sorryNoDriverNearby": "Spiacenti, al momento non ci sono autisti nelle vicinanze che ti servono a questo indirizzo",
+  "note": "Nota",
+  "returnCollectionLocation": "Ritorna al luogo di ritiro",
+  "estimatedDistance": "Distanza stimata",
+  "collect": "Raccogliere",
+  "boarding": "Imbarco",
+  "returnCollectLocation": "Ritorna al luogo di ritiro",
+  "rideStatus": "Stato della corsa",
+  "totalAmount": "Importo totale",
+  "tryAgain": "Riprova",
+  "errorGettingRide": "Errore durante la corsa",
+  "rideNotFound": "Giro non trovato",
+  "ride": "Giro",
+  "details": "Particolari",
+  "addresses": "Indirizzi",
+  "driver": "Autista",
+  "sendingRide": "Invio di corsa",
+  "rideCreated": "Giro creato",
+  "returnn": "Ritorno",
+  "awaitingSomething": "In attesa di {something}",
+  "@awaitingSomething": {
+    "placeholders": {
+      "something": {
+        "type": "String"
+      }
+    }
+  },
+  "andMoreLocations": "e altre {quantity} posizioni",
+  "@andMoreLocations": {
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "returnPickupLocationRequired": "Ritorno al luogo di ritiro richiesto",
+  "seeWhatWeCanDoForYouToday": "Guarda cosa possiamo guidare per te",
+  "letsStartWithLogin": "Iniziamo con il login",
+  "payWith": "Paga con {paymentMethod}",
+  "@payWith": {
+    "placeholders": {
+      "paymentMethod": {
+        "type": "String"
+      }
+    }
+  },
+  "online": "in linea",
+  "tracking": "Tracciamento",
+  "paymentCompleted": "Pagamento completato",
+  "paid": "Pagato",
+  "error": "Errore",
+  "errorOnPayment": "Errore nel pagamento",
+  "deletingYourAccont": "Cancellazione del tuo account",
+  "deleteAccount": "Eliminare l'account",
+  "deleteMyAccount": "Cancella il mio account",
+  "clickOnAdressOpenInMap": "Clicca sull'indirizzo per aprirlo sulla mappa",
+  "reallyWantDeleteAccontDataWillBeLost": "Vuoi davvero cancellare il tuo account? I tuoi dati andranno persi definitivamente.",
+  "inProgress": "In corso",
+  "whereTo": "Dove?",
+  "nearbyPlaces": "Luoghi vicini",
+  "findingPlace": "Trovare posto...",
+  "unnamedLocation": "Località senza nome",
+  "tapSelectThisLocation": "Tocca per selezionare questa posizione",
+  "vehicleType": "Tipo di veicolo",
+  "searchingDriver": "Driver di ricerca",
+  "lookingForDriver": "Stiamo cercando un autista",
+  "cancelRide": "Annulla corsa",
+  "reallyWantCancelRide": "Vuoi davvero annullare la corsa?",
+  "driverHeadingYourLocation": "{driverName} si sta dirigendo verso la tua posizione",
+  "@driverHeadingYourLocation": {
+    "placeholders": {
+      "driverName": {
+        "type": "String"
+      }
+    }
+  },
+  "brand": "Marca",
+  "model": "Modello",
+  "plate": "Piatto",
+  "rideInProgress": "La corsa è in corso",
+  "chatWithCourier": "Chatta con Corriere",
+  "noMessages": "Nessun messaggio",
+  "enterAMessage": "Inserisci un messaggio",
+  "waitingForLoginInBrowser": "In attesa che tu acceda nel browser"
+}

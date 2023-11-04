@@ -1,0 +1,240 @@
+{
+  "home": "Дом",
+  "login": "Авторизоваться",
+  "logout": "Выйти",
+  "theName": "Название",
+  "name": "Имя",
+  "fullName": "ФИО",
+  "enterFullName": "Введите свое полное имя",
+  "phone": "Телефон",
+  "thePhone": "Телефон",
+  "enterPhoneCorrectly": "Введите свой телефон правильно",
+  "enterFullPhoneNumber": "Введите свой полный телефон",
+  "fantasyName": "Имя фантазии",
+  "enterCompanyName": "Введите название компании",
+  "email": "Эл. адрес",
+  "enterEmail": "Введите адрес электронной почты",
+  "enterValidEmail": "Введите действительный адрес электронной почты",
+  "emailNotFound": "Электронная почта не найдена",
+  "waitSendLinkAgain": "Подождите, чтобы снова отправить ссылку",
+  "password": "Пароль",
+  "thePassword": "Сенха",
+  "enterPassword": "Введите свой пароль",
+  "enterPasswordConfirmation": "Введите подтверждение пароля",
+  "confirmPassword": "Подтвердите свой пароль",
+  "passwordsNotMatch": "Пароли не совпадают",
+  "incorrectEmailPassword": "Неправильный адрес электронной почты или пароль",
+  "forgetPassword": "Забыли свой пароль?",
+  "resetPassword": "Сброс пароля",
+  "loginRequired": "Требуется логин",
+  "errorLogin": "Ошибка при входе",
+  "errorRegister": "Ошибка при регистрации",
+  "inputMinimumSize": "{fieldName} должно быть не менее {requiredSize} символов.",
+  "@inputMinimumSize": {
+    "description": "Минимальный размер поля",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "Пароль"
+      },
+      "requiredSize": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "wantToLeaveRegistration": "Вы хотите выйти из регистрации?",
+  "exitingRegistrationDataLost": "При выходе из регистрации все уже введенные данные будут потеряны.",
+  "cancel": "Отмена",
+  "declareHaveReadAgreed": "Регистрируясь, вы заявляете, что прочитали и согласны с нашими",
+  "termsUsePrivacyPolicy": "Условия использования и политика конфиденциальности",
+  "leave": "Оставлять",
+  "save": "Сохранять",
+  "dontHaveAccount": "У вас нет аккаунта?",
+  "createAccount": "Подписаться",
+  "registration": "Регистрация",
+  "register": "регистр",
+  "haveAnAccount": "Иметь аккаунт?",
+  "signIn": "Войти",
+  "signUp": "Подписаться",
+  "skipForNow": "Пропустить сейчас",
+  "skip": "Пропускать",
+  "verifyConnection": "Проверьте подключение к Интернету",
+  "rememberMe": "Запомните меня",
+  "menu": "Меню",
+  "wantSignOut": "Хотите выйти?",
+  "yes": "Да",
+  "no": "Нет",
+  "theme": "Тема",
+  "darkTheme": "Темная тема",
+  "lightTheme": "Светлая тема",
+  "sendLink": "Отправить ссылку",
+  "linkSubmitted": "Ссылка отправлена",
+  "errorSendingLink": "Ошибка отправки ссылки",
+  "linkCopied": "Ссылка была скопирована",
+  "termsUse": "Условия эксплуатации",
+  "privacyPolicy": "Политика конфиденциальности",
+  "and": "а также",
+  "kilometer": "километр",
+  "mile": "Миля",
+  "km": "км",
+  "mi": "Ми",
+  "signinWith": "Войдите с помощью {socialNetwork}",
+  "@signinWith": {
+    "placeholders": {
+      "socialNetwork": {
+        "type": "String"
+      }
+    }
+  },
+  "fromPickupLocation": "{distance} от места посадки",
+  "@fromPickupLocation": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "phoneNumberRequired": "Требуется номер телефона",
+  "pending": "В ожидании",
+  "waiting": "Ожидающий",
+  "accepted": "Принято",
+  "rejected": "Отклоненный",
+  "collected": "Собрано",
+  "delivered": "Доставленный",
+  "cancelled": "Отменено",
+  "completed": "Завершенный",
+  "noResultsFound": "результатов не найдено",
+  "boardingPlace": "Место посадки",
+  "destination": "Назначения",
+  "addRideLocation": "Добавить место поездки",
+  "selectAnAddress": "Выберите адрес",
+  "total": "Общий",
+  "distance": "Расстояние",
+  "enterNumberComplement": "Введите число и дополните",
+  "ok": "Ok",
+  "changeDriver": "Сменить водителя",
+  "sendRide": "Отправить поездку",
+  "searchingRides": "Поиск аттракционов",
+  "youDontHaveAnyRides": "У вас нет поездок",
+  "support": "Поддерживать",
+  "accountSupport": "Поддержка аккаунта",
+  "settings": "Настройки",
+  "recentRides": "Недавние поездки",
+  "boardingAddress": "Выберите адрес",
+  "rideAddress": "Адрес поездки",
+  "rideAddresses": "Адреса для поездок",
+  "viewCompleteRide": "Посмотреть полную поездку",
+  "requestedBy": "Запрошенный",
+  "paymentMethod": "Метод оплаты",
+  "paymentStatus": "Статус платежа",
+  "loadMore": "Загрузи больше",
+  "failedUpdate": "Не удалось обновить",
+  "dataUpdatedSuccessfully": "Данные успешно обновлены",
+  "camera": "Камера",
+  "gallery": "Галерея",
+  "updatePhoto": "Обновить фото",
+  "cameraAccess": "Доступ к камере",
+  "galleryAccess": "Доступ к галерее",
+  "allowAppAccessThe": "Разрешите приложению доступ к {accessType}, чтобы иметь возможность отправлять фотографии",
+  "@allowAppAccessThe": {
+    "description": "Разрешить доступ",
+    "placeholders": {
+      "accessType": {
+        "type": "String"
+      }
+    }
+  },
+  "thereWasErrorSendingImage": "Произошла ошибка при отправке изображения.",
+  "goToSettings": "Перейти к настройкам",
+  "profile": "Профиль",
+  "newRide": "Новая поездка",
+  "observationForDriver": "Наблюдение за водителем",
+  "selectPaymentMethod": "Выберите способ оплаты",
+  "ifNeededInputObservationDriver": "При необходимости введите замечание для водителя",
+  "driverDetailsDisplayedRidePanel": "Информация о водителе отображается на панели управления.",
+  "sorryNoDriverNearby": "К сожалению, в данный момент поблизости нет водителей, которые могли бы обслужить вас по этому адресу.",
+  "note": "Примечание",
+  "returnCollectionLocation": "Вернуться к месту сбора",
+  "estimatedDistance": "Расчетное расстояние",
+  "collect": "Собирать",
+  "boarding": "Посадка",
+  "returnCollectLocation": "Вернуться к месту сбора",
+  "rideStatus": "Статус поездки",
+  "totalAmount": "Итого",
+  "tryAgain": "Попробуйте еще раз",
+  "errorGettingRide": "Не удалось получить поездку",
+  "rideNotFound": "Поездка не найдена",
+  "ride": "Поездка",
+  "details": "Подробности",
+  "addresses": "Адреса",
+  "driver": "Водитель",
+  "sendingRide": "Отправка поездки",
+  "rideCreated": "Поездка создана",
+  "returnn": "Возвращаться",
+  "awaitingSomething": "жду {something}",
+  "@awaitingSomething": {
+    "placeholders": {
+      "something": {
+        "type": "String"
+      }
+    }
+  },
+  "andMoreLocations": "и еще {quantity} местоположений",
+  "@andMoreLocations": {
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "returnPickupLocationRequired": "Требуется возврат к месту получения",
+  "seeWhatWeCanDoForYouToday": "Посмотрите, на чем мы можем покататься для вас",
+  "letsStartWithLogin": "Начнем с входа",
+  "payWith": "Оплатить с помощью {paymentMethod}",
+  "@payWith": {
+    "placeholders": {
+      "paymentMethod": {
+        "type": "String"
+      }
+    }
+  },
+  "online": "онлайн",
+  "tracking": "Отслеживание",
+  "paymentCompleted": "Платеж завершен",
+  "paid": "Оплаченный",
+  "error": "Ошибка",
+  "errorOnPayment": "Ошибка при оплате",
+  "deletingYourAccont": "Удаление вашей учетной записи",
+  "deleteAccount": "Удалить аккаунт",
+  "deleteMyAccount": "Удалите мой аккаунт",
+  "clickOnAdressOpenInMap": "Нажмите на адрес, чтобы открыть его на карте",
+  "reallyWantDeleteAccontDataWillBeLost": "Вы действительно хотите удалить свой аккаунт? Ваши данные будут безвозвратно потеряны.",
+  "inProgress": "В ходе выполнения",
+  "whereTo": "Куда?",
+  "nearbyPlaces": "Ближайшие места",
+  "findingPlace": "Поиск места...",
+  "unnamedLocation": "Безымянное местоположение",
+  "tapSelectThisLocation": "Нажмите, чтобы выбрать это место",
+  "vehicleType": "Тип машины",
+  "searchingDriver": "Поиск водителя",
+  "lookingForDriver": "Мы ищем водителя",
+  "cancelRide": "Отменить поездку",
+  "reallyWantCancelRide": "Вы действительно хотите отменить поездку?",
+  "driverHeadingYourLocation": "{driverName} едет к вам",
+  "@driverHeadingYourLocation": {
+    "placeholders": {
+      "driverName": {
+        "type": "String"
+      }
+    }
+  },
+  "brand": "Бренд",
+  "model": "Модель",
+  "plate": "Пластина",
+  "rideInProgress": "Поездка продолжается",
+  "chatWithCourier": "Чат с курьером",
+  "noMessages": "Нет сообщений",
+  "enterAMessage": "Введите сообщение",
+  "waitingForLoginInBrowser": "Ожидание входа в браузер"
+}

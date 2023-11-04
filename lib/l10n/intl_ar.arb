@@ -1,0 +1,240 @@
+{
+  "home": "مسكن",
+  "login": "تسجيل الدخول",
+  "logout": "تسجيل خروج",
+  "theName": "الاسم",
+  "name": "اسم",
+  "fullName": "الاسم الكامل",
+  "enterFullName": "أدخل اسمك الكامل",
+  "phone": "هاتف",
+  "thePhone": "الهاتف",
+  "enterPhoneCorrectly": "أدخل هاتفك بشكل صحيح",
+  "enterFullPhoneNumber": "أدخل رقم هاتفك بالكامل",
+  "fantasyName": "اسم الخيال",
+  "enterCompanyName": "أدخل اسم الشركة",
+  "email": "البريد الإلكتروني",
+  "enterEmail": "أدخل بريدك الإلكتروني",
+  "enterValidEmail": "أدخل بريد إلكتروني متاح",
+  "emailNotFound": "البريد الإلكتروني غير موجود",
+  "waitSendLinkAgain": "انتظر لإرسال الرابط مرة أخرى",
+  "password": "كلمة المرور",
+  "thePassword": "أ سنها",
+  "enterPassword": "ادخل رقمك السري",
+  "enterPasswordConfirmation": "أدخل تأكيد كلمة المرور",
+  "confirmPassword": "أكد رقمك السري",
+  "passwordsNotMatch": "كلمة المرور غير مطابقة",
+  "incorrectEmailPassword": "بريد أو كلمة مرورغير صحيحة",
+  "forgetPassword": "نسيت كلمة المرور؟",
+  "resetPassword": "إعادة تعيين كلمة المرور",
+  "loginRequired": "تسجيل الدخول مطلوب",
+  "errorLogin": "خطأ أثناء تسجيل الدخول",
+  "errorRegister": "خطأ أثناء التسجيل",
+  "inputMinimumSize": "يجب ألا يقل طول {fieldName} عن {requiredSize} من الأحرف",
+  "@inputMinimumSize": {
+    "description": "الحجم الأدنى للحقل",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "كلمة المرور"
+      },
+      "requiredSize": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "wantToLeaveRegistration": "هل تريد ترك التسجيل؟",
+  "exitingRegistrationDataLost": "عند الخروج من التسجيل ، ستفقد جميع البيانات التي تم إدخالها بالفعل.",
+  "cancel": "يلغي",
+  "declareHaveReadAgreed": "بالتسجيل ، فإنك تقر بأنك قد قرأت ووافقت على",
+  "termsUsePrivacyPolicy": "شروط الاستخدام و سياسة الخصوصية",
+  "leave": "غادر",
+  "save": "يحفظ",
+  "dontHaveAccount": "ليس لديك حساب؟",
+  "createAccount": "اشتراك",
+  "registration": "تسجيل",
+  "register": "يسجل",
+  "haveAnAccount": "هل لديك حساب؟",
+  "signIn": "تسجيل الدخول",
+  "signUp": "اشتراك",
+  "skipForNow": "تخطي في الوقت الراهن",
+  "skip": "يتخطى",
+  "verifyConnection": "تحقق من اتصالك بالإنترنت",
+  "rememberMe": "تذكرنى",
+  "menu": "قائمة الطعام",
+  "wantSignOut": "هل تريد تسجيل الخروج؟",
+  "yes": "نعم",
+  "no": "رقم",
+  "theme": "سمة",
+  "darkTheme": "مظهر داكن",
+  "lightTheme": "مظهر خفيف",
+  "sendLink": "إرسال الارتباط",
+  "linkSubmitted": "تم إرسال الرابط",
+  "errorSendingLink": "خطأ في إرسال الارتباط",
+  "linkCopied": "تم نسخ الارتباط",
+  "termsUse": "شروط الاستخدام",
+  "privacyPolicy": "سياسة الخصوصية",
+  "and": "و",
+  "kilometer": "كيلومتر",
+  "mile": "ميل",
+  "km": "كم",
+  "mi": "مي",
+  "signinWith": "تسجيل الدخول باستخدام {socialNetwork}",
+  "@signinWith": {
+    "placeholders": {
+      "socialNetwork": {
+        "type": "String"
+      }
+    }
+  },
+  "fromPickupLocation": "{distance} من موقع الالتقاء",
+  "@fromPickupLocation": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "phoneNumberRequired": "رقم الهاتف مطلوب",
+  "pending": "قيد الانتظار",
+  "waiting": "انتظار",
+  "accepted": "وافقت",
+  "rejected": "مرفوض",
+  "collected": "جمعت",
+  "delivered": "تم التوصيل",
+  "cancelled": "ألغيت",
+  "completed": "مكتمل",
+  "noResultsFound": "لم يتم العثور على نتائج",
+  "boardingPlace": "مكان الصعود",
+  "destination": "المكان المقصود",
+  "addRideLocation": "أضف موقع الرحلة",
+  "selectAnAddress": "اختر عنوانًا",
+  "total": "المجموع",
+  "distance": "مسافه: بعد",
+  "enterNumberComplement": "أدخل الرقم والمكمل",
+  "ok": "موافق",
+  "changeDriver": "سائق التغيير",
+  "sendRide": "أرسل رحلة",
+  "searchingRides": "البحث في ركوب الخيل",
+  "youDontHaveAnyRides": "ليس لديك أي رحلات",
+  "support": "الدعم",
+  "accountSupport": "دعم الحساب",
+  "settings": "إعدادات",
+  "recentRides": "الرحلات الأخيرة",
+  "boardingAddress": "عنوان الاستلام",
+  "rideAddress": "عنوان الركوب",
+  "rideAddresses": "عناوين الركوب",
+  "viewCompleteRide": "عرض رحلة كاملة",
+  "requestedBy": "بتوصية من",
+  "paymentMethod": "طريقة الدفع او السداد",
+  "paymentStatus": "حالة السداد",
+  "loadMore": "تحميل المزيد",
+  "failedUpdate": "اخفاق التحديث",
+  "dataUpdatedSuccessfully": "تم تحديث البيانات بنجاح",
+  "camera": "آلة تصوير",
+  "gallery": "صالة عرض",
+  "updatePhoto": "تحديث الصورة",
+  "cameraAccess": "الوصول إلى الكاميرا",
+  "galleryAccess": "الوصول إلى المعرض",
+  "allowAppAccessThe": "اسمح للتطبيق بالوصول إلى {accessType} لتتمكن من إرسال الصور",
+  "@allowAppAccessThe": {
+    "description": "السماح بالمرور",
+    "placeholders": {
+      "accessType": {
+        "type": "String"
+      }
+    }
+  },
+  "thereWasErrorSendingImage": "كان هناك خطأ في إرسال الصورة.",
+  "goToSettings": "اذهب للاعدادات",
+  "profile": "الملف الشخصي",
+  "newRide": "رحلة جديدة",
+  "observationForDriver": "مراقبة للسائق",
+  "selectPaymentMethod": "حدد طريقة الدفع",
+  "ifNeededInputObservationDriver": "إذا لزم الأمر ، أدخل ملاحظة للسائق",
+  "driverDetailsDisplayedRidePanel": "يتم عرض تفاصيل السائق على لوحة الركوب.",
+  "sorryNoDriverNearby": "عذرًا ، لا يوجد سائقون قريبون لخدمتك على هذا العنوان في الوقت الحالي",
+  "note": "ملحوظة",
+  "returnCollectionLocation": "العودة إلى موقع المجموعة",
+  "estimatedDistance": "المسافة المقدرة",
+  "collect": "يجمع",
+  "boarding": "الصعود",
+  "returnCollectLocation": "العودة إلى موقع المجموعة",
+  "rideStatus": "حالة الركوب",
+  "totalAmount": "المبلغ الإجمالي",
+  "tryAgain": "حاول ثانية",
+  "errorGettingRide": "خطأ في الركوب",
+  "rideNotFound": "لم يتم العثور على الركوب",
+  "ride": "يركب",
+  "details": "تفاصيل",
+  "addresses": "عناوين",
+  "driver": "سائق",
+  "sendingRide": "يرسل الركوب",
+  "rideCreated": "تم إنشاء الركوب",
+  "returnn": "يعود",
+  "awaitingSomething": "في انتظار {something}",
+  "@awaitingSomething": {
+    "placeholders": {
+      "something": {
+        "type": "String"
+      }
+    }
+  },
+  "andMoreLocations": "والمزيد من المواقع {quantity}",
+  "@andMoreLocations": {
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "returnPickupLocationRequired": "مطلوب العودة إلى موقع الالتقاط",
+  "seeWhatWeCanDoForYouToday": "انظر ما يمكننا ركوبه لك",
+  "letsStartWithLogin": "لنبدأ بتسجيل الدخول",
+  "payWith": "الدفع باستخدام {paymentMethod}",
+  "@payWith": {
+    "placeholders": {
+      "paymentMethod": {
+        "type": "String"
+      }
+    }
+  },
+  "online": "متصل",
+  "tracking": "تتبع",
+  "paymentCompleted": "تم التسديد",
+  "paid": "مدفوع",
+  "error": "خطأ",
+  "errorOnPayment": "خطأ في الدفع",
+  "deletingYourAccont": "حذف حسابك",
+  "deleteAccount": "حذف الحساب",
+  "deleteMyAccount": "احذف حسابي",
+  "clickOnAdressOpenInMap": "اضغط على العنوان لفتحه على الخريطة",
+  "reallyWantDeleteAccontDataWillBeLost": "هل تريد حقا حذف حسابك؟ ستفقد بياناتك بشكل دائم.",
+  "inProgress": "في تَقَدم",
+  "whereTo": "إلى أين؟",
+  "nearbyPlaces": "الاماكن المجاورة",
+  "findingPlace": "جاري البحث عن مكان ...",
+  "unnamedLocation": "موقع بدون اسم",
+  "tapSelectThisLocation": "انقر لتحديد هذا الموقع",
+  "vehicleType": "نوع السيارة",
+  "searchingDriver": "البحث عن سائق",
+  "lookingForDriver": "نحن نبحث عن سائق",
+  "cancelRide": "إلغاء الرحلة",
+  "reallyWantCancelRide": "هل تريد حقًا إلغاء الرحلة؟",
+  "driverHeadingYourLocation": "{driverName} يتجه إلى موقعك",
+  "@driverHeadingYourLocation": {
+    "placeholders": {
+      "driverName": {
+        "type": "String"
+      }
+    }
+  },
+  "brand": "ماركة",
+  "model": "نموذج",
+  "plate": "لوحة",
+  "rideInProgress": "الرحلة جارية",
+  "chatWithCourier": "الدردشة مع Courier",
+  "noMessages": "لا رسائل",
+  "enterAMessage": "أدخل رسالة",
+  "waitingForLoginInBrowser": "في انتظار تسجيل الدخول في المتصفح"
+}

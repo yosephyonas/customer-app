@@ -1,0 +1,240 @@
+{
+  "home": "Maison",
+  "login": "Connexion",
+  "logout": "Se déconnecter",
+  "theName": "Le nom",
+  "name": "Nom",
+  "fullName": "Nom et prénom",
+  "enterFullName": "Entrez votre nom complet",
+  "phone": "Téléphoner",
+  "thePhone": "Le téléphone",
+  "enterPhoneCorrectly": "Saisissez correctement votre téléphone",
+  "enterFullPhoneNumber": "Entrez votre numéro de téléphone complet",
+  "fantasyName": "Nom de fantaisie",
+  "enterCompanyName": "Entrez le nom de l'entreprise",
+  "email": "E-mail",
+  "enterEmail": "Entrer votre Email",
+  "enterValidEmail": "Entrer un email valide",
+  "emailNotFound": "Email non trouvé",
+  "waitSendLinkAgain": "Attendre pour renvoyer le lien",
+  "password": "Mot de passe",
+  "thePassword": "Un senha",
+  "enterPassword": "Tapez votre mot de passe",
+  "enterPasswordConfirmation": "Entrez la confirmation du mot de passe",
+  "confirmPassword": "Confirmer votre mot de passe",
+  "passwordsNotMatch": "Les mots de passe ne correspondent pas",
+  "incorrectEmailPassword": "email ou mot de passe incorrect",
+  "forgetPassword": "Mot de passe oublié?",
+  "resetPassword": "Réinitialiser le mot de passe",
+  "loginRequired": "Connexion requise",
+  "errorLogin": "Erreur lors de la connexion",
+  "errorRegister": "Erreur lors de l'inscription",
+  "inputMinimumSize": "{fieldName} doit comporter au moins {requiredSize} caractères",
+  "@inputMinimumSize": {
+    "description": "Taille minimale du champ",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "Mot de passe"
+      },
+      "requiredSize": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "wantToLeaveRegistration": "Voulez-vous quitter l'enregistrement ?",
+  "exitingRegistrationDataLost": "À la sortie de l'enregistrement, toutes les données déjà saisies seront perdues.",
+  "cancel": "Annuler",
+  "declareHaveReadAgreed": "En vous inscrivant, vous déclarez avoir lu et accepté nos",
+  "termsUsePrivacyPolicy": "Conditions d'utilisation et politique de confidentialité",
+  "leave": "Partir",
+  "save": "sauvegarder",
+  "dontHaveAccount": "Vous n'avez pas de compte ?",
+  "createAccount": "S'inscrire",
+  "registration": "Inscription",
+  "register": "S'inscrire",
+  "haveAnAccount": "Avoir un compte?",
+  "signIn": "S'identifier",
+  "signUp": "S'inscrire",
+  "skipForNow": "Ignorer pour l'instant",
+  "skip": "Sauter",
+  "verifyConnection": "Vérifiez votre connexion Internet",
+  "rememberMe": "Souviens-toi de moi",
+  "menu": "Menu",
+  "wantSignOut": "Vous voulez vous déconnecter ?",
+  "yes": "Oui",
+  "no": "Non",
+  "theme": "Thème",
+  "darkTheme": "Thème sombre",
+  "lightTheme": "Thème lumière",
+  "sendLink": "Soumettre le lien",
+  "linkSubmitted": "Lien soumis",
+  "errorSendingLink": "Erreur lors de l'envoi du lien",
+  "linkCopied": "Le lien a été copié",
+  "termsUse": "Conditions d'utilisation",
+  "privacyPolicy": "Politique de confidentialité",
+  "and": "et",
+  "kilometer": "Kilomètre",
+  "mile": "Mile",
+  "km": "km",
+  "mi": "Mi",
+  "signinWith": "Connectez-vous avec {socialNetwork}",
+  "@signinWith": {
+    "placeholders": {
+      "socialNetwork": {
+        "type": "String"
+      }
+    }
+  },
+  "fromPickupLocation": "{distance} du lieu de prise en charge",
+  "@fromPickupLocation": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "phoneNumberRequired": "Numéro de téléphone requis",
+  "pending": "En attente",
+  "waiting": "Attendre",
+  "accepted": "Accepté",
+  "rejected": "Rejeté",
+  "collected": "Collecté",
+  "delivered": "Livré",
+  "cancelled": "Annulé",
+  "completed": "Complété",
+  "noResultsFound": "Aucun résultat trouvé",
+  "boardingPlace": "Lieu d'embarquement",
+  "destination": "Destination",
+  "addRideLocation": "Ajouter un lieu de course",
+  "selectAnAddress": "Sélectionnez une adresse",
+  "total": "Total",
+  "distance": "Distance",
+  "enterNumberComplement": "Entrez le nombre et le complément",
+  "ok": "D'accord",
+  "changeDriver": "Changer de pilote",
+  "sendRide": "Envoyer un trajet",
+  "searchingRides": "Recherche de manèges",
+  "youDontHaveAnyRides": "Vous n'avez pas de covoiturage",
+  "support": "Soutien",
+  "accountSupport": "Prise en charge du compte",
+  "settings": "Réglages",
+  "recentRides": "Courses récentes",
+  "boardingAddress": "Adresse de ramassage",
+  "rideAddress": "Adresse du trajet",
+  "rideAddresses": "Adresses de trajet",
+  "viewCompleteRide": "Voir le parcours complet",
+  "requestedBy": "Demandé par",
+  "paymentMethod": "Mode de paiement",
+  "paymentStatus": "Statut de paiement",
+  "loadMore": "Charger plus",
+  "failedUpdate": "Échec de mise à jour",
+  "dataUpdatedSuccessfully": "Données mises à jour avec succès",
+  "camera": "Caméra",
+  "gallery": "Galerie",
+  "updatePhoto": "Mettre à jour la photo",
+  "cameraAccess": "Accès à la caméra",
+  "galleryAccess": "Accès à la Galerie",
+  "allowAppAccessThe": "Autoriser l'application à accéder au {accessType} pour pouvoir envoyer des photos",
+  "@allowAppAccessThe": {
+    "description": "Permettre l'accès",
+    "placeholders": {
+      "accessType": {
+        "type": "String"
+      }
+    }
+  },
+  "thereWasErrorSendingImage": "Une erreur s'est produite lors de l'envoi de l'image.",
+  "goToSettings": "Aller aux paramètres",
+  "profile": "Profil",
+  "newRide": "Nouvelle glisse",
+  "observationForDriver": "Observation pour le conducteur",
+  "selectPaymentMethod": "Sélectionnez le mode de paiement",
+  "ifNeededInputObservationDriver": "Si nécessaire, saisissez une observation pour le conducteur",
+  "driverDetailsDisplayedRidePanel": "Les détails du conducteur sont affichés sur le panneau de conduite.",
+  "sorryNoDriverNearby": "Désolé, il n'y a pas de chauffeurs à proximité pour vous servir à cette adresse pour le moment",
+  "note": "Noter",
+  "returnCollectionLocation": "Retour au lieu de collecte",
+  "estimatedDistance": "Distance estimée",
+  "collect": "Recueillir",
+  "boarding": "Embarquement",
+  "returnCollectLocation": "Retour au lieu de collecte",
+  "rideStatus": "Statut du trajet",
+  "totalAmount": "Montant total",
+  "tryAgain": "Réessayer",
+  "errorGettingRide": "Erreur lors du trajet",
+  "rideNotFound": "Course introuvable",
+  "ride": "Balade",
+  "details": "Détails",
+  "addresses": "Adresses",
+  "driver": "Chauffeur",
+  "sendingRide": "Envoi de trajet",
+  "rideCreated": "Course créée",
+  "returnn": "Revenir",
+  "awaitingSomething": "En attente de {something}",
+  "@awaitingSomething": {
+    "placeholders": {
+      "something": {
+        "type": "String"
+      }
+    }
+  },
+  "andMoreLocations": "et plus d'emplacements de {quantity}",
+  "@andMoreLocations": {
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "returnPickupLocationRequired": "Retour au lieu de prise en charge obligatoire",
+  "seeWhatWeCanDoForYouToday": "Voyez ce que nous pouvons monter pour vous",
+  "letsStartWithLogin": "Commençons par la connexion",
+  "payWith": "Payer avec {paymentMethod}",
+  "@payWith": {
+    "placeholders": {
+      "paymentMethod": {
+        "type": "String"
+      }
+    }
+  },
+  "online": "En ligne",
+  "tracking": "Suivi",
+  "paymentCompleted": "Paiement terminé",
+  "paid": "Payé",
+  "error": "Erreur",
+  "errorOnPayment": "Erreur de paiement",
+  "deletingYourAccont": "Suppression de votre compte",
+  "deleteAccount": "Supprimer le compte",
+  "deleteMyAccount": "Supprimer mon compte",
+  "clickOnAdressOpenInMap": "Cliquez sur l'adresse pour l'ouvrir sur la carte",
+  "reallyWantDeleteAccontDataWillBeLost": "Voulez-vous vraiment supprimer votre compte ? Vos données seront définitivement perdues.",
+  "inProgress": "En cours",
+  "whereTo": "Où aller ?",
+  "nearbyPlaces": "Lieux à proximité",
+  "findingPlace": "Trouver un lieu...",
+  "unnamedLocation": "Emplacement sans nom",
+  "tapSelectThisLocation": "Appuyez pour sélectionner cet emplacement",
+  "vehicleType": "Type de véhicule",
+  "searchingDriver": "Recherche chauffeur",
+  "lookingForDriver": "Nous recherchons un chauffeur",
+  "cancelRide": "Annuler le trajet",
+  "reallyWantCancelRide": "Voulez-vous vraiment annuler le trajet ?",
+  "driverHeadingYourLocation": "{driverName} se dirige vers votre emplacement",
+  "@driverHeadingYourLocation": {
+    "placeholders": {
+      "driverName": {
+        "type": "String"
+      }
+    }
+  },
+  "brand": "Marque",
+  "model": "Modèle",
+  "plate": "Plaque",
+  "rideInProgress": "La balade est en cours",
+  "chatWithCourier": "Chatter avec Courrier",
+  "noMessages": "Pas de messages",
+  "enterAMessage": "Entrez un message",
+  "waitingForLoginInBrowser": "En attente de vous connecter dans le navigateur"
+}

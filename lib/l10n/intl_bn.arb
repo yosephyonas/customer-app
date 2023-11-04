@@ -1,0 +1,240 @@
+{
+  "home": "বাড়ি",
+  "login": "প্রবেশ করুন",
+  "logout": "প্রস্থান",
+  "theName": "নাম",
+  "name": "নাম",
+  "fullName": "পুরো নাম",
+  "enterFullName": "আপনার পুরো নাম লিখুন",
+  "phone": "ফোন",
+  "thePhone": "ফোনটি",
+  "enterPhoneCorrectly": "সঠিকভাবে আপনার ফোন লিখুন",
+  "enterFullPhoneNumber": "আপনার সম্পূর্ণ ফোন লিখুন",
+  "fantasyName": "ফ্যান্টাসি নাম",
+  "enterCompanyName": "কোম্পানির নাম লিখুন",
+  "email": "ইমেইল",
+  "enterEmail": "তুমার ইমেইল প্রবেশ করাও",
+  "enterValidEmail": "একটি বৈধ ইমেল লিখুন",
+  "emailNotFound": "ইমেল পাওয়া যায়নি",
+  "waitSendLinkAgain": "আবার লিঙ্ক পাঠাতে অপেক্ষা করুন",
+  "password": "পাসওয়ার্ড",
+  "thePassword": "সেনহা",
+  "enterPassword": "আপনার পাসওয়ার্ড লিখুন",
+  "enterPasswordConfirmation": "পাসওয়ার্ড নিশ্চিতকরণ লিখুন",
+  "confirmPassword": "আপনার পাসওয়ার্ড নিশ্চিত",
+  "passwordsNotMatch": "পাসওয়ার্ড মিলছে না",
+  "incorrectEmailPassword": "ভুল ইমেল বা পাসওয়ার্ড",
+  "forgetPassword": "আপনার পাসওয়ার্ড ভুলে গেছেন?",
+  "resetPassword": "পাসওয়ার্ড রিসেট করুন",
+  "loginRequired": "লগইন প্রয়োজন",
+  "errorLogin": "লগ ইন করার সময় ত্রুটি",
+  "errorRegister": "নিবন্ধন করার সময় ত্রুটি",
+  "inputMinimumSize": "{fieldName} অবশ্যই কমপক্ষে {requiredSize} অক্ষর দীর্ঘ হতে হবে৷",
+  "@inputMinimumSize": {
+    "description": "ক্ষেত্রের ন্যূনতম আকার",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "পাসওয়ার্ড"
+      },
+      "requiredSize": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "wantToLeaveRegistration": "আপনি নিবন্ধন ছেড়ে যেতে চান?",
+  "exitingRegistrationDataLost": "নিবন্ধন থেকে প্রস্থান করার পরে, ইতিমধ্যে প্রবেশ করা সমস্ত ডেটা হারিয়ে যাবে।",
+  "cancel": "বাতিল করুন",
+  "declareHaveReadAgreed": "নিবন্ধন করে, আপনি ঘোষণা করেন যে আপনি আমাদের পড়েছেন এবং সম্মত হন",
+  "termsUsePrivacyPolicy": "ব্যবহারের শর্তাবলী এবং গোপনীয়তা নীতি",
+  "leave": "ছেড়ে দিন",
+  "save": "সংরক্ষণ",
+  "dontHaveAccount": "একটি অ্যাকাউন্ট নেই?",
+  "createAccount": "নিবন্ধন করুন",
+  "registration": "নিবন্ধন",
+  "register": "নিবন্ধন",
+  "haveAnAccount": "একাউন্ট আছে?",
+  "signIn": "সাইন ইন করুন",
+  "signUp": "নিবন্ধন করুন",
+  "skipForNow": "এখন জন্য লাফালাফি",
+  "skip": "এড়িয়ে যান",
+  "verifyConnection": "আপনার ইন্টারনেট সংযোগ যাচাই করুন",
+  "rememberMe": "আমাকে মনে কর",
+  "menu": "তালিকা",
+  "wantSignOut": "সাইন আউট করতে চান?",
+  "yes": "হ্যাঁ",
+  "no": "না",
+  "theme": "থিম",
+  "darkTheme": "গাঢ় থিম",
+  "lightTheme": "হালকা থিম",
+  "sendLink": "লিঙ্ক জমা দিন",
+  "linkSubmitted": "লিঙ্ক জমা দেওয়া হয়েছে",
+  "errorSendingLink": "লিঙ্ক পাঠাতে ত্রুটি",
+  "linkCopied": "লিঙ্ক কপি করা হয়েছে",
+  "termsUse": "ব্যবহারের শর্তাবলী",
+  "privacyPolicy": "গোপনীয়তা নীতি",
+  "and": "এবং",
+  "kilometer": "কিলোমিটার",
+  "mile": "মাইল",
+  "km": "কিমি",
+  "mi": "মি",
+  "signinWith": "{socialNetwork} দিয়ে সাইন ইন করুন",
+  "@signinWith": {
+    "placeholders": {
+      "socialNetwork": {
+        "type": "String"
+      }
+    }
+  },
+  "fromPickupLocation": "পিক-আপ লোকেশন থেকে {distance}",
+  "@fromPickupLocation": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "phoneNumberRequired": "ফোন নম্বর প্রয়োজন",
+  "pending": "বিচারাধীন",
+  "waiting": "অপেক্ষা করছে",
+  "accepted": "গৃহীত",
+  "rejected": "প্রত্যাখ্যাত",
+  "collected": "সংগৃহীত",
+  "delivered": "বিতরণ করা হয়েছে",
+  "cancelled": "বাতিল",
+  "completed": "সম্পন্ন",
+  "noResultsFound": "কোন ফলাফল পাওয়া যায়নি",
+  "boardingPlace": "বোর্ডিং জায়গা",
+  "destination": "গন্তব্য",
+  "addRideLocation": "যাত্রার অবস্থান যোগ করুন",
+  "selectAnAddress": "একটি ঠিকানা নির্বাচন করুন",
+  "total": "মোট",
+  "distance": "দূরত্ব",
+  "enterNumberComplement": "সংখ্যা এবং পরিপূরক লিখুন",
+  "ok": "ঠিক আছে",
+  "changeDriver": "ড্রাইভার পরিবর্তন করুন",
+  "sendRide": "রাইড পাঠান",
+  "searchingRides": "রাইডস অনুসন্ধান করা হচ্ছে",
+  "youDontHaveAnyRides": "আপনার কোনো রাইড নেই",
+  "support": "সমর্থন",
+  "accountSupport": "অ্যাকাউন্ট সমর্থন",
+  "settings": "সেটিংস",
+  "recentRides": "সাম্প্রতিক রাইড",
+  "boardingAddress": "পিক আপের ঠিকানা",
+  "rideAddress": "যাত্রার ঠিকানা",
+  "rideAddresses": "যাত্রার ঠিকানা",
+  "viewCompleteRide": "সম্পূর্ণ রাইড দেখুন",
+  "requestedBy": "দ্বারা অনুরোধ করা হয়েছে",
+  "paymentMethod": "মূল্যপরিশোধ পদ্ধতি",
+  "paymentStatus": "লেনদেনের অবস্থা",
+  "loadMore": "আর ঢুকাও",
+  "failedUpdate": "আপডেট করতে ব্যর্থ হয়েছে",
+  "dataUpdatedSuccessfully": "ডেটা সফলভাবে আপডেট করা হয়েছে",
+  "camera": "ক্যামেরা",
+  "gallery": "গ্যালারি",
+  "updatePhoto": "ফটো আপডেট করুন",
+  "cameraAccess": "ক্যামেরা অ্যাক্সেস",
+  "galleryAccess": "গ্যালারিতে অ্যাক্সেস",
+  "allowAppAccessThe": "ফটো পাঠাতে সক্ষম হতে অ্যাপটিকে {accessType} অ্যাক্সেস করার অনুমতি দিন",
+  "@allowAppAccessThe": {
+    "description": "ব্যবহারের অনুমতি",
+    "placeholders": {
+      "accessType": {
+        "type": "String"
+      }
+    }
+  },
+  "thereWasErrorSendingImage": "ছবিটি পাঠানোর সময় একটি ত্রুটি ছিল৷",
+  "goToSettings": "সেটিংস এ যান",
+  "profile": "প্রোফাইল",
+  "newRide": "নতুন রাইড",
+  "observationForDriver": "ড্রাইভারের জন্য পর্যবেক্ষণ",
+  "selectPaymentMethod": "পেমেন্ট পদ্ধতি নির্বাচন করুন",
+  "ifNeededInputObservationDriver": "প্রয়োজন হলে, ড্রাইভারের জন্য একটি পর্যবেক্ষণ ইনপুট করুন",
+  "driverDetailsDisplayedRidePanel": "চালকের বিবরণ রাইড প্যানেলে প্রদর্শিত হয়।",
+  "sorryNoDriverNearby": "দুঃখিত, এই মুহুর্তে এই ঠিকানায় আপনাকে পরিবেশন করার জন্য কাছাকাছি কোন ড্রাইভার নেই৷",
+  "note": "বিঃদ্রঃ",
+  "returnCollectionLocation": "সংগ্রহের অবস্থানে ফিরে যান",
+  "estimatedDistance": "আনুমানিক দূরত্ব",
+  "collect": "সংগ্রহ করুন",
+  "boarding": "বোর্ডিং",
+  "returnCollectLocation": "সংগ্রহের অবস্থানে ফিরে যান",
+  "rideStatus": "রাইড স্ট্যাটাস",
+  "totalAmount": "সর্বমোট পরিমাণ",
+  "tryAgain": "আবার চেষ্টা করুন",
+  "errorGettingRide": "যাত্রায় ত্রুটি",
+  "rideNotFound": "রাইড পাওয়া যায়নি",
+  "ride": "রাইড",
+  "details": "বিস্তারিত",
+  "addresses": "ঠিকানা",
+  "driver": "ড্রাইভার",
+  "sendingRide": "রাইড পাঠানো হচ্ছে",
+  "rideCreated": "রাইড তৈরি করা হয়েছে",
+  "returnn": "প্রত্যাবর্তন",
+  "awaitingSomething": "অপেক্ষায় {something}",
+  "@awaitingSomething": {
+    "placeholders": {
+      "something": {
+        "type": "String"
+      }
+    }
+  },
+  "andMoreLocations": "এবং আরও {quantity} অবস্থান",
+  "@andMoreLocations": {
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "returnPickupLocationRequired": "পিকআপ লোকেশনে ফিরতে হবে",
+  "seeWhatWeCanDoForYouToday": "দেখুন আমরা আপনার জন্য কি চালাতে পারি",
+  "letsStartWithLogin": "লগইন দিয়ে শুরু করা যাক",
+  "payWith": "{paymentMethod} দিয়ে পেমেন্ট করুন",
+  "@payWith": {
+    "placeholders": {
+      "paymentMethod": {
+        "type": "String"
+      }
+    }
+  },
+  "online": "অনলাইন",
+  "tracking": "ট্র্যাকিং",
+  "paymentCompleted": "পেমেন্ট সম্পন্ন হয়েছে",
+  "paid": "পেড",
+  "error": "ত্রুটি",
+  "errorOnPayment": "পেমেন্টে ত্রুটি",
+  "deletingYourAccont": "আপনার অ্যাকাউন্ট মুছে ফেলা হচ্ছে",
+  "deleteAccount": "হিসাব মুছে ফেলা",
+  "deleteMyAccount": "আমার হিসাব মুছে দিন",
+  "clickOnAdressOpenInMap": "মানচিত্রে এটি খুলতে ঠিকানাটিতে ক্লিক করুন",
+  "reallyWantDeleteAccontDataWillBeLost": "আপনি কি সত্যিই আপনার অ্যাকাউন্ট মুছে ফেলতে চান? আপনার ডেটা স্থায়ীভাবে হারিয়ে যাবে।",
+  "inProgress": "চলমান",
+  "whereTo": "কোথায়?",
+  "nearbyPlaces": "কাছাকাছি জায়গা",
+  "findingPlace": "জায়গা খোঁজা হচ্ছে...",
+  "unnamedLocation": "নামহীন অবস্থান",
+  "tapSelectThisLocation": "এই অবস্থান নির্বাচন করতে আলতো চাপুন",
+  "vehicleType": "গাড়ির ধরন",
+  "searchingDriver": "ড্রাইভার খোঁজা হচ্ছে",
+  "lookingForDriver": "আমরা একজন ড্রাইভার খুঁজছি",
+  "cancelRide": "রাইড বাতিল করুন",
+  "reallyWantCancelRide": "আপনি কি সত্যিই রাইড বাতিল করতে চান?",
+  "driverHeadingYourLocation": "{driverName} আপনার লোকেশনে যাচ্ছে",
+  "@driverHeadingYourLocation": {
+    "placeholders": {
+      "driverName": {
+        "type": "String"
+      }
+    }
+  },
+  "brand": "ব্র্যান্ড",
+  "model": "মডেল",
+  "plate": "প্লেট",
+  "rideInProgress": "রাইড চলছে",
+  "chatWithCourier": "কুরিয়ারের সাথে চ্যাট করুন",
+  "noMessages": "কোন বার্তা নেই",
+  "enterAMessage": "একটি বার্তা লিখুন",
+  "waitingForLoginInBrowser": "আপনার ব্রাউজারে লগইন করার জন্য অপেক্ষা করা হচ্ছে"
+}

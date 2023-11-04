@@ -1,0 +1,240 @@
+{
+  "home": "Início",
+  "login": "Login",
+  "logout": "Sair",
+  "theName": "O nome",
+  "name": "Nome",
+  "fullName": "Nome Completo",
+  "enterFullName": "Digite o nome completo",
+  "phone": "Telefone",
+  "thePhone": "O telefone",
+  "enterPhoneCorrectly": "Digite o seu telefone corretamente",
+  "enterFullPhoneNumber": "Digite o seu phone completo",
+  "fantasyName": "Nome Fantasia",
+  "enterCompanyName": "Digite o nome fantasia da empresa",
+  "email": "E-mail",
+  "enterEmail": "Digite o seu e-mail",
+  "enterValidEmail": "Digite um e-mail válido",
+  "emailNotFound": "E-mail não encontrado",
+  "waitSendLinkAgain": "Aguarde para enviar o link novamente",
+  "password": "Senha",
+  "thePassword": "A senha",
+  "enterPassword": "Digite a sua senha",
+  "enterPasswordConfirmation": "Digite a confirmação de senha",
+  "confirmPassword": "Confirme sua senha",
+  "passwordsNotMatch": "As senhas não coincidem",
+  "incorrectEmailPassword": "E-mail ou senha incorretos",
+  "forgetPassword": "Esqueceu sua senha?",
+  "resetPassword": "Redefinir senha",
+  "loginRequired": "Login necessário",
+  "errorLogin": "Falha ao realizar login",
+  "errorRegister": "Falha ao registrar",
+  "inputMinimumSize": "{fieldName} deve ser pelo menos de {requiredSize} caracteres",
+  "@inputMinimumSize": {
+    "description": "Mensagem do tamanho do campo customizado",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "Senha"
+      },
+      "requiredSize": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "wantToLeaveRegistration": "Deseja sair do cadastro?",
+  "exitingRegistrationDataLost": "Ao sair do cadastro, todos os dados já inseridos serão perdidos.",
+  "cancel": "Cancelar",
+  "declareHaveReadAgreed": "Ao se cadastrar você afirma que leu e concorda com os nossos",
+  "termsUsePrivacyPolicy": "Termos de Uso e Política de Privacidade",
+  "leave": "Sair",
+  "save": "Salvar",
+  "dontHaveAccount": "Não tem uma conta?",
+  "createAccount": "Criar uma conta",
+  "registration": "Cadastro",
+  "register": "Cadastrar",
+  "haveAnAccount": "Já possui uma conta?",
+  "signIn": "Entrar",
+  "signUp": "Cadastrar",
+  "skipForNow": "Pular por enquanto",
+  "skip": "Pular",
+  "verifyConnection": "Verifique sua conexão com a internet",
+  "rememberMe": "Lembrar-me",
+  "menu": "Menu",
+  "wantSignOut": "Você deseja se desconectar?",
+  "yes": "Sim",
+  "no": "Não",
+  "theme": "Tema",
+  "darkTheme": "Tema escuro",
+  "lightTheme": "Tema claro",
+  "sendLink": "Enviar link",
+  "linkSubmitted": "Link enviado",
+  "errorSendingLink": "Erro ao enviar link",
+  "linkCopied": "O link foi copiado",
+  "termsUse": "Termos de Uso",
+  "privacyPolicy": "Política de Privacidade",
+  "and": "e",
+  "kilometer": "Quilômetro",
+  "mile": "Milha",
+  "km": "km",
+  "mi": "mi",
+  "signinWith": "Login com {socialNetwork}",
+  "@signinWith": {
+    "placeholders": {
+      "socialNetwork": {
+        "type": "String"
+      }
+    }
+  },
+  "fromPickupLocation": "{distance} do local de coleta",
+  "@fromPickupLocation": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "phoneNumberRequired": "Telefone Necessário",
+  "pending": "Pendente",
+  "waiting": "Aguardando",
+  "accepted": "Aceito",
+  "rejected": "Rejeitado",
+  "collected": "Coletado",
+  "delivered": "Entregue",
+  "cancelled": "Cancelado",
+  "completed": "Completado",
+  "noResultsFound": "Nenhum resultado encontrado",
+  "boardingPlace": "Local de embarque",
+  "destination": "Destino",
+  "addRideLocation": "Adicionar local de entrega",
+  "selectAnAddress": "Selecione um endereço",
+  "total": "Total",
+  "distance": "Distância",
+  "enterNumberComplement": "Insira o número e complemento",
+  "ok": "Ok",
+  "changeDriver": "Mudar entregador",
+  "sendRide": "Enviar pedido",
+  "searchingRides": "Procurando pedidos",
+  "youDontHaveAnyRides": "Você não tem nenhum pedido",
+  "support": "Suporte",
+  "accountSupport": "Suporte para a conta",
+  "settings": "Configurações",
+  "recentRides": "Pedidos Recentes",
+  "boardingAddress": "Endereço de Coleta",
+  "rideAddress": "Endereço de Entrega",
+  "rideAddresses": "Endereços de Entrega",
+  "viewCompleteRide": "Ver Pedido Completo",
+  "requestedBy": "Solicitado por",
+  "paymentMethod": "Método de Pagamento",
+  "paymentStatus": "Status do pagamento",
+  "loadMore": "Carregar mais",
+  "failedUpdate": "Falha ao Atualizar",
+  "dataUpdatedSuccessfully": "Dados atualizados com sucesso",
+  "camera": "Câmera",
+  "gallery": "Galeria",
+  "updatePhoto": "Atualizar Foto",
+  "cameraAccess": "Acesso a Câmera",
+  "galleryAccess": "Acesso a Galeria",
+  "allowAppAccessThe": "Permita ao app acessar a {accessType} para poder enviar fotos",
+  "@allowAppAccessThe": {
+    "description": "Allow access",
+    "placeholders": {
+      "accessType": {
+        "type": "String"
+      }
+    }
+  },
+  "thereWasErrorSendingImage": "Ocorreu um erro ao enviar a imagem",
+  "goToSettings": "Ir para as Configurações",
+  "profile": "Perfil",
+  "newRide": "Novo pedido",
+  "observationForDriver": "Observação para o entregador",
+  "selectPaymentMethod": "Selecione a forma de pagamento",
+  "ifNeededInputObservationDriver": "Se necessário, insira uma observação para o entregador",
+  "driverDetailsDisplayedRidePanel": "Os detalhes do entregador serão exibidos no painel do pedido.",
+  "sorryNoDriverNearby": "Desculpe, não temos nenhum entregador para atende-lo nesse endereço no momento",
+  "note": "Observação",
+  "returnCollectionLocation": "Retorno ao Local de Coleta",
+  "estimatedDistance": "Distância Estimada",
+  "collect": "Coleta",
+  "boarding": "Embarque",
+  "returnCollectLocation": "Retorno ao Local de Coleta",
+  "rideStatus": "Status do Pedido",
+  "totalAmount": "Valor total",
+  "tryAgain": "Tentar Novamente",
+  "errorGettingRide": "Falha ao buscar pedido",
+  "rideNotFound": "O pedido não foi encontrado",
+  "ride": "Pedido",
+  "details": "Detalhes",
+  "addresses": "Endereços",
+  "driver": "Entregador",
+  "sendingRide": "Enviando pedido",
+  "rideCreated": "Pedido criado",
+  "returnn": "Retorno",
+  "awaitingSomething": "Aguardando {something}",
+  "@awaitingSomething": {
+    "placeholders": {
+      "something": {
+        "type": "String"
+      }
+    }
+  },
+  "andMoreLocations": "e mais {quantity} locais",
+  "@andMoreLocations": {
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "returnPickupLocationRequired": "Retorno ao local de retirada obrigatório",
+  "seeWhatWeCanDoForYouToday": "Veja o que podemos fazer por você hoje",
+  "letsStartWithLogin": "Vamos começar com o login",
+  "payWith": "Pagar com {paymentMethod}",
+  "@payWith": {
+    "placeholders": {
+      "paymentMethod": {
+        "type": "String"
+      }
+    }
+  },
+  "online": "Online",
+  "tracking": "Localização",
+  "paymentCompleted": "Pagamento finalizado",
+  "paid": "Pago",
+  "error": "Erro",
+  "errorOnPayment": "Erro no pagamento",
+  "deletingYourAccont": "Removendo sua conta",
+  "deleteAccount": "Deletar conta",
+  "deleteMyAccount": "Excluir minha conta",
+  "clickOnAdressOpenInMap": "Clique no endereço para abri-lo no mapa",
+  "reallyWantDeleteAccontDataWillBeLost": "Deseja realmente deletar a sua conta? Os seus dados serão perdidos permanentemente.",
+  "inProgress": "Em andamento",
+  "whereTo": "Para onde?",
+  "nearbyPlaces": "Lugares próximos",
+  "findingPlace": "Encontrando lugar...",
+  "unnamedLocation": "Local sem nome",
+  "tapSelectThisLocation": "Toque para selecionar essa localização",
+  "vehicleType": "Tipo do veículo",
+  "searchingDriver": "Buscando motorista",
+  "lookingForDriver": "Estamos buscando um motorista",
+  "cancelRide": "Cancelar viagem",
+  "reallyWantCancelRide": "Deseja mesmo cancelar a viagem?",
+  "driverHeadingYourLocation": "{driverName} está indo para seu local",
+  "@driverHeadingYourLocation": {
+    "placeholders": {
+      "driverName": {
+        "type": "String"
+      }
+    }
+  },
+  "brand": "Marca",
+  "model": "Modelo",
+  "plate": "Placa",
+  "rideInProgress": "A viagem está em andamento",
+  "chatWithCourier": "Conversar com o Entregador",
+  "noMessages": "Nenhuma mensagem",
+  "enterAMessage": "Digite uma mensagem",
+  "waitingForLoginInBrowser": "Aguardando você realizar o login no navegador"
+}

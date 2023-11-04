@@ -1,0 +1,240 @@
+{
+  "home": "Ev",
+  "login": "Giriş yapmak",
+  "logout": "Çıkış Yap",
+  "theName": "İsim",
+  "name": "İsim",
+  "fullName": "Ad Soyad",
+  "enterFullName": "Ad ve soyadınızı girin",
+  "phone": "Telefon",
+  "thePhone": "Telefon",
+  "enterPhoneCorrectly": "Telefonunuzu doğru girin",
+  "enterFullPhoneNumber": "Telefonunuzun tamamını girin",
+  "fantasyName": "fantezi adı",
+  "enterCompanyName": "Şirket adını girin",
+  "email": "E-posta",
+  "enterEmail": "E-postanızı giriniz",
+  "enterValidEmail": "Geçerli bir e-posta giriniz",
+  "emailNotFound": "Email bulunamadı",
+  "waitSendLinkAgain": "Bağlantıyı tekrar göndermek için bekleyin",
+  "password": "Şifre",
+  "thePassword": "bir senha",
+  "enterPassword": "Şifrenizi girin",
+  "enterPasswordConfirmation": "Şifre onayını girin",
+  "confirmPassword": "Parolanızı doğrulayın",
+  "passwordsNotMatch": "Parolalar uyuşmuyor",
+  "incorrectEmailPassword": "yanlış eposta adresi veya şifre",
+  "forgetPassword": "Şifreni mi unuttun?",
+  "resetPassword": "Şifreyi yenile",
+  "loginRequired": "Oturum açmak gereklidir",
+  "errorLogin": "Giriş yaparken hata",
+  "errorRegister": "Kayıt olurken hata",
+  "inputMinimumSize": "{fieldName} en az {requiredSize} karakter uzunluğunda olmalıdır",
+  "@inputMinimumSize": {
+    "description": "Alanın minimum boyutu",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "Şifre"
+      },
+      "requiredSize": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "wantToLeaveRegistration": "Kayıttan çıkmak istiyor musunuz?",
+  "exitingRegistrationDataLost": "Kayıttan çıkıldığında, girilen tüm veriler kaybolacaktır.",
+  "cancel": "İptal",
+  "declareHaveReadAgreed": "Kaydolarak, sözleşmemizi okuduğunuzu ve kabul ettiğinizi beyan etmiş olursunuz.",
+  "termsUsePrivacyPolicy": "Kullanım ve gizlilik politikası şartları",
+  "leave": "Terk etmek",
+  "save": "Kaydetmek",
+  "dontHaveAccount": "Hesabınız yok mu?",
+  "createAccount": "Üye olmak",
+  "registration": "Kayıt",
+  "register": "Kayıt ol",
+  "haveAnAccount": "Bir hesabınız var mı?",
+  "signIn": "Kayıt olmak",
+  "signUp": "Üye olmak",
+  "skipForNow": "Şimdilik geç",
+  "skip": "Atlamak",
+  "verifyConnection": "İnternet bağlantınızı doğrulayın",
+  "rememberMe": "Beni hatırla",
+  "menu": "Menü",
+  "wantSignOut": "Çıkış yapmak ister misiniz?",
+  "yes": "Evet",
+  "no": "Numara",
+  "theme": "Tema",
+  "darkTheme": "Karanlık tema",
+  "lightTheme": "hafif tema",
+  "sendLink": "Bağlantıyı gönder",
+  "linkSubmitted": "Bağlantı gönderildi",
+  "errorSendingLink": "Bağlantı gönderilirken hata oluştu",
+  "linkCopied": "Bağlantı kopyalandı",
+  "termsUse": "Kullanım Şartları",
+  "privacyPolicy": "Gizlilik Politikası",
+  "and": "ve",
+  "kilometer": "Kilometre",
+  "mile": "Mil",
+  "km": "Km",
+  "mi": "Mi",
+  "signinWith": "{socialNetwork} ile oturum açın",
+  "@signinWith": {
+    "placeholders": {
+      "socialNetwork": {
+        "type": "String"
+      }
+    }
+  },
+  "fromPickupLocation": "Alış konumundan {distance}",
+  "@fromPickupLocation": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "phoneNumberRequired": "Telefon Numarası Gerekli",
+  "pending": "Askıda olması",
+  "waiting": "Beklemek",
+  "accepted": "Kabul edilmiş",
+  "rejected": "Reddedildi",
+  "collected": "Toplanmış",
+  "delivered": "Teslim edilmiş",
+  "cancelled": "İptal edildi",
+  "completed": "Tamamlanmış",
+  "noResultsFound": "Sonuç bulunamadı",
+  "boardingPlace": "biniş yeri",
+  "destination": "Hedef",
+  "addRideLocation": "Sürüş konumu ekle",
+  "selectAnAddress": "Bir adres seçin",
+  "total": "Toplam",
+  "distance": "Mesafe",
+  "enterNumberComplement": "Numarayı girin ve tamamlayın",
+  "ok": "Tamam",
+  "changeDriver": "Şöförü değiştir",
+  "sendRide": "Yolculuk gönder",
+  "searchingRides": "Sürüş Arama",
+  "youDontHaveAnyRides": "hiç araban yok",
+  "support": "Destek",
+  "accountSupport": "Hesap desteği",
+  "settings": "Ayarlar",
+  "recentRides": "Son sürüşler",
+  "boardingAddress": "Adresi almak",
+  "rideAddress": "Adres",
+  "rideAddresses": "Adresler",
+  "viewCompleteRide": "Tam Sürüşü Görüntüle",
+  "requestedBy": "tarafından talep edildi",
+  "paymentMethod": "Ödeme şekli",
+  "paymentStatus": "Ödeme durumu",
+  "loadMore": "Daha fazla yükle",
+  "failedUpdate": "Güncelleme başarısız oldu",
+  "dataUpdatedSuccessfully": "Veriler başarıyla güncellendi",
+  "camera": "Kamera",
+  "gallery": "Galeri",
+  "updatePhoto": "Fotoğrafı Güncelle",
+  "cameraAccess": "Kamera Erişimi",
+  "galleryAccess": "Galeriye Erişim",
+  "allowAppAccessThe": "Fotoğraf gönderebilmek için uygulamanın {accessType}'a erişmesine izin verin",
+  "@allowAppAccessThe": {
+    "description": "Erişime izin vermek",
+    "placeholders": {
+      "accessType": {
+        "type": "String"
+      }
+    }
+  },
+  "thereWasErrorSendingImage": "Resim gönderilirken bir hata oluştu.",
+  "goToSettings": "Ayarlara git",
+  "profile": "Profil",
+  "newRide": "Yeni yolculuk",
+  "observationForDriver": "Sürücü için Gözlem",
+  "selectPaymentMethod": "Ödeme yöntemini seçin",
+  "ifNeededInputObservationDriver": "Gerekirse, sürücü için bir gözlem girin",
+  "driverDetailsDisplayedRidePanel": "Sürücü ayrıntıları sürüş panelinde görüntülenir.",
+  "sorryNoDriverNearby": "Üzgünüz, şu anda bu adreste size hizmet verecek yakınlarda sürücü yok",
+  "note": "Not",
+  "returnCollectionLocation": "Toplama Konumuna Dön",
+  "estimatedDistance": "Tahmini Mesafe",
+  "collect": "Toplamak",
+  "boarding": "Biniş",
+  "returnCollectLocation": "Toplama Konumuna Dön",
+  "rideStatus": "Sürüş Durumu",
+  "totalAmount": "Toplam tutar",
+  "tryAgain": "Tekrar deneyin",
+  "errorGettingRide": "Sürüş sırasında hata",
+  "rideNotFound": "Yolculuk bulunamadı",
+  "ride": "Sürmek",
+  "details": "Detaylar",
+  "addresses": "adresler",
+  "driver": "sürücü",
+  "sendingRide": "yolculuk gönderme",
+  "rideCreated": "Yolculuk oluşturuldu",
+  "returnn": "Dönüş",
+  "awaitingSomething": "{something} bekleniyor",
+  "@awaitingSomething": {
+    "placeholders": {
+      "something": {
+        "type": "String"
+      }
+    }
+  },
+  "andMoreLocations": "ve daha fazla {quantity} konum",
+  "@andMoreLocations": {
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "returnPickupLocationRequired": "Alış konumuna dönüş gerekli",
+  "seeWhatWeCanDoForYouToday": "Bakalım sizin için neler yapabiliriz",
+  "letsStartWithLogin": "Giriş yaparak başlayalım",
+  "payWith": "{paymentMethod} ile ödeme yapın",
+  "@payWith": {
+    "placeholders": {
+      "paymentMethod": {
+        "type": "String"
+      }
+    }
+  },
+  "online": "Çevrimiçi",
+  "tracking": "izleme",
+  "paymentCompleted": "Ödeme tamamlandı",
+  "paid": "Paralı",
+  "error": "Hata",
+  "errorOnPayment": "Ödemede hata",
+  "deletingYourAccont": "Hesabınızı silme",
+  "deleteAccount": "Hesabı sil",
+  "deleteMyAccount": "Hesabımı sil",
+  "clickOnAdressOpenInMap": "Haritada açmak için adrese tıklayın",
+  "reallyWantDeleteAccontDataWillBeLost": "Hesabınızı gerçekten silmek istiyor musunuz? Verileriniz kalıcı olarak kaybolacak.",
+  "inProgress": "Devam etmekte",
+  "whereTo": "Nereye?",
+  "nearbyPlaces": "Yakın yerler",
+  "findingPlace": "Yer bulmak...",
+  "unnamedLocation": "Adsız konum",
+  "tapSelectThisLocation": "Bu konumu seçmek için dokunun",
+  "vehicleType": "Araç tipi",
+  "searchingDriver": "Sürücü aranıyor",
+  "lookingForDriver": "bir sürücü arıyoruz",
+  "cancelRide": "Sürüşü iptal et",
+  "reallyWantCancelRide": "Yolculuğu gerçekten iptal etmek istiyor musunuz?",
+  "driverHeadingYourLocation": "{driverName} konumunuza gidiyor",
+  "@driverHeadingYourLocation": {
+    "placeholders": {
+      "driverName": {
+        "type": "String"
+      }
+    }
+  },
+  "brand": "Marka",
+  "model": "modeli",
+  "plate": "Plaka",
+  "rideInProgress": "sürüş devam ediyor",
+  "chatWithCourier": "Kurye ile Sohbet",
+  "noMessages": "Mesaj yok",
+  "enterAMessage": "bir mesaj girin",
+  "waitingForLoginInBrowser": "Tarayıcıda oturum açmanızı bekliyorum"
+}

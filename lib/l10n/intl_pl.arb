@@ -1,0 +1,240 @@
+{
+  "home": "Dom",
+  "login": "Zaloguj sie",
+  "logout": "Wyloguj",
+  "theName": "Imię",
+  "name": "Nazwa",
+  "fullName": "Pełne imię i nazwisko",
+  "enterFullName": "Wprowadź swoje imię i nazwisko",
+  "phone": "Telefon",
+  "thePhone": "Telefon",
+  "enterPhoneCorrectly": "Wpisz swój telefon poprawnie",
+  "enterFullPhoneNumber": "Wpisz swój pełny telefon",
+  "fantasyName": "Nazwa fantazji",
+  "enterCompanyName": "Wpisz nazwę firmy",
+  "email": "E-mail",
+  "enterEmail": "Wprowadź swój email",
+  "enterValidEmail": "Wpisz poprawny email",
+  "emailNotFound": "Email nie znaleziony",
+  "waitSendLinkAgain": "Poczekaj, aż ponownie wyślesz link",
+  "password": "Hasło",
+  "thePassword": "Senha",
+  "enterPassword": "Wprowadź hasło",
+  "enterPasswordConfirmation": "Wprowadź potwierdzenie hasła",
+  "confirmPassword": "Potwierdź swoje hasło",
+  "passwordsNotMatch": "Hasła nie pasują do siebie",
+  "incorrectEmailPassword": "nieprawidłowy email lub hasło",
+  "forgetPassword": "Zapomniałeś hasła?",
+  "resetPassword": "Zresetuj hasło",
+  "loginRequired": "Wymagane zalogowanie",
+  "errorLogin": "Błąd podczas logowania",
+  "errorRegister": "Błąd podczas rejestracji",
+  "inputMinimumSize": "Pole {fieldName} musi mieć co najmniej {requiredSize} znaków",
+  "@inputMinimumSize": {
+    "description": "Minimalny rozmiar pola",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "Hasło"
+      },
+      "requiredSize": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "wantToLeaveRegistration": "Czy chcesz opuścić rejestrację?",
+  "exitingRegistrationDataLost": "Po wyjściu z rejestracji wszystkie wprowadzone dane zostaną utracone.",
+  "cancel": "Anulować",
+  "declareHaveReadAgreed": "Rejestrując się, oświadczasz, że przeczytałeś i zgadzasz się z naszymi",
+  "termsUsePrivacyPolicy": "Warunki użytkowania i polityka prywatności",
+  "leave": "Wyjechać",
+  "save": "Ratować",
+  "dontHaveAccount": "Nie masz konta?",
+  "createAccount": "Zapisz się",
+  "registration": "Rejestracja",
+  "register": "Zarejestrować",
+  "haveAnAccount": "Mieć konto?",
+  "signIn": "Zaloguj się",
+  "signUp": "Zapisz się",
+  "skipForNow": "Pomiń to na razie",
+  "skip": "Pomijać",
+  "verifyConnection": "Zweryfikuj swoje połączenie internetowe",
+  "rememberMe": "Zapamiętaj mnie",
+  "menu": "Menu",
+  "wantSignOut": "Chcesz się wylogować?",
+  "yes": "TAk",
+  "no": "Nie",
+  "theme": "Motyw",
+  "darkTheme": "ciemny schemat",
+  "lightTheme": "Lekki motyw",
+  "sendLink": "Prześlij link",
+  "linkSubmitted": "Przesłano link",
+  "errorSendingLink": "Błąd podczas wysyłania linku",
+  "linkCopied": "Link został skopiowany",
+  "termsUse": "Warunki korzystania",
+  "privacyPolicy": "Polityka prywatności",
+  "and": "oraz",
+  "kilometer": "Kilometr",
+  "mile": "Mila",
+  "km": "Km",
+  "mi": "Mi",
+  "signinWith": "Zaloguj się przez {socialNetwork}",
+  "@signinWith": {
+    "placeholders": {
+      "socialNetwork": {
+        "type": "String"
+      }
+    }
+  },
+  "fromPickupLocation": "{distance} od miejsca odbioru",
+  "@fromPickupLocation": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "phoneNumberRequired": "Wymagany numer telefonu",
+  "pending": "W oczekiwaniu",
+  "waiting": "Czekanie",
+  "accepted": "Przyjęty",
+  "rejected": "Odrzucony",
+  "collected": "Zebrane",
+  "delivered": "Dostarczony",
+  "cancelled": "Anulowany",
+  "completed": "Zakończony",
+  "noResultsFound": "Nie znaleziono wyników",
+  "boardingPlace": "Miejsce wejścia na pokład",
+  "destination": "Miejsce docelowe",
+  "addRideLocation": "Dodaj lokalizację przejazdu",
+  "selectAnAddress": "Wybierz adres",
+  "total": "Całkowity",
+  "distance": "Dystans",
+  "enterNumberComplement": "Wpisz numer i uzupełnij",
+  "ok": "Ok",
+  "changeDriver": "Zmień sterownik",
+  "sendRide": "Wyślij przejazd",
+  "searchingRides": "Wyszukiwanie przejazdów",
+  "youDontHaveAnyRides": "Nie masz żadnych przejazdów",
+  "support": "Wspierać się",
+  "accountSupport": "Obsługa konta",
+  "settings": "Ustawienia",
+  "recentRides": "Ostatnie przejazdy",
+  "boardingAddress": "Adres odbioru",
+  "rideAddress": "Adres przejazdu",
+  "rideAddresses": "Adresy przejazdów",
+  "viewCompleteRide": "Zobacz całą jazdę",
+  "requestedBy": "Na wniosek",
+  "paymentMethod": "Metoda płatności",
+  "paymentStatus": "Status płatności",
+  "loadMore": "Załaduj więcej",
+  "failedUpdate": "Nie udało się zaktualizować",
+  "dataUpdatedSuccessfully": "Dane zostały zaktualizowane pomyślnie",
+  "camera": "Aparat fotograficzny",
+  "gallery": "Galeria",
+  "updatePhoto": "Zaktualizuj zdjęcie",
+  "cameraAccess": "Dostęp do aparatu",
+  "galleryAccess": "Dostęp do Galerii",
+  "allowAppAccessThe": "Zezwól aplikacji na dostęp do {accessType}, aby móc wysyłać zdjęcia",
+  "@allowAppAccessThe": {
+    "description": "Umożliwić dostęp",
+    "placeholders": {
+      "accessType": {
+        "type": "String"
+      }
+    }
+  },
+  "thereWasErrorSendingImage": "Wystąpił błąd podczas wysyłania obrazu.",
+  "goToSettings": "Przejdź do ustawień",
+  "profile": "Profil",
+  "newRide": "Nowa kolejka",
+  "observationForDriver": "Obserwacja dla kierowcy",
+  "selectPaymentMethod": "Wybierz metodę płatności",
+  "ifNeededInputObservationDriver": "W razie potrzeby wprowadź obserwację dla kierowcy",
+  "driverDetailsDisplayedRidePanel": "Dane kierowcy są wyświetlane na panelu jazdy.",
+  "sorryNoDriverNearby": "Przepraszamy, w tej chwili nie ma w pobliżu żadnych kierowców, którzy mogliby służyć Ci pod tym adresem",
+  "note": "Notatka",
+  "returnCollectionLocation": "Wróć do lokalizacji kolekcji",
+  "estimatedDistance": "Szacowana odległość",
+  "collect": "Zebrać",
+  "boarding": "Abordaż",
+  "returnCollectLocation": "Wróć do lokalizacji kolekcji",
+  "rideStatus": "Stan jazdy",
+  "totalAmount": "Całkowita kwota",
+  "tryAgain": "Spróbuj ponownie",
+  "errorGettingRide": "Błąd podczas pobierania przejazdu",
+  "rideNotFound": "Nie znaleziono przejazdu",
+  "ride": "Jeździć",
+  "details": "Detale",
+  "addresses": "Adresy",
+  "driver": "Kierowca",
+  "sendingRide": "Wysyłam przejażdżkę",
+  "rideCreated": "Utworzono przejazd",
+  "returnn": "Zwrócić",
+  "awaitingSomething": "Czekam na {something}",
+  "@awaitingSomething": {
+    "placeholders": {
+      "something": {
+        "type": "String"
+      }
+    }
+  },
+  "andMoreLocations": "i więcej {quantity} lokalizacji",
+  "@andMoreLocations": {
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "returnPickupLocationRequired": "Wymagany powrót do miejsca odbioru",
+  "seeWhatWeCanDoForYouToday": "Zobacz czym możemy dla Ciebie jeździć",
+  "letsStartWithLogin": "Zacznijmy od logowania",
+  "payWith": "Zapłać za pomocą {paymentMethod}",
+  "@payWith": {
+    "placeholders": {
+      "paymentMethod": {
+        "type": "String"
+      }
+    }
+  },
+  "online": "online",
+  "tracking": "Śledzenie",
+  "paymentCompleted": "Płatność zakończona",
+  "paid": "Płatny",
+  "error": "Błąd",
+  "errorOnPayment": "Błąd płatności",
+  "deletingYourAccont": "Usunięcie konta",
+  "deleteAccount": "Usuń konto",
+  "deleteMyAccount": "Usuń moje konto",
+  "clickOnAdressOpenInMap": "Kliknij adres, aby otworzyć go na mapie",
+  "reallyWantDeleteAccontDataWillBeLost": "Czy na pewno chcesz usunąć swoje konto? Twoje dane zostaną trwale utracone.",
+  "inProgress": "W trakcie",
+  "whereTo": "Dokąd?",
+  "nearbyPlaces": "Miejsca w pobliżu",
+  "findingPlace": "Szukam miejsca...",
+  "unnamedLocation": "Lokalizacja bez nazwy",
+  "tapSelectThisLocation": "Dotknij, aby wybrać tę lokalizację",
+  "vehicleType": "Typ pojazdu",
+  "searchingDriver": "Wyszukiwanie sterownika",
+  "lookingForDriver": "Poszukujemy kierowcy",
+  "cancelRide": "Anuluj jazdę",
+  "reallyWantCancelRide": "Czy na pewno chcesz odwołać przejazd?",
+  "driverHeadingYourLocation": "{driverName} zmierza do Twojej lokalizacji",
+  "@driverHeadingYourLocation": {
+    "placeholders": {
+      "driverName": {
+        "type": "String"
+      }
+    }
+  },
+  "brand": "Marka",
+  "model": "Model",
+  "plate": "Talerz",
+  "rideInProgress": "Jazda w toku",
+  "chatWithCourier": "Porozmawiaj z kurierem",
+  "noMessages": "Brak wiadomości",
+  "enterAMessage": "Wpisz wiadomość",
+  "waitingForLoginInBrowser": "Czekam na zalogowanie się w przeglądarce"
+}
